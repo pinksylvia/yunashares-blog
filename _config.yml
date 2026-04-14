@@ -1,7 +1,7 @@
 title: Yuna Shares
 description: 旅遊、親子、生活好物分享
 url: "https://yunashares.blog"
-baseurl: ""
+baseurl: "/yunashares-blog"
 lang: zh-TW
 timezone: Asia/Taipei
 
