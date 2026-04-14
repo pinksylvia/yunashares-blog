@@ -1,16 +1,64 @@
 <aside class="sidebar-banners">
+
+  <!-- 最新文章 -->
+  <div class="sidebar-section">
+    <h3 class="sidebar-title">最新文章</h3>
+    <ul class="sidebar-posts">
+      {% assign recent_posts = site.posts | slice: 0, 5 %}
+      {% for post in recent_posts %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <!-- 文章分類 -->
+  <div class="sidebar-section">
+    <h3 class="sidebar-title">文章分類</h3>
+    {% for category in site.categories %}
+    <details class="sidebar-category">
+      <summary>{{ category[0] }}（{{ category[1].size }}）</summary>
+      <ul class="sidebar-posts">
+        {% for post in category[1] %}
+        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </details>
+    {% endfor %}
+  </div>
+
   <!-- Agoda Banner -->
   <div class="banner-slot" id="banner-agoda">
-    <!-- 貼入 Agoda 聯盟後台提供的 Banner 代碼 -->
+    <div id="adgshp463839735"></div>
+    <script type="text/javascript" src="https://cdn0.agoda.net/images/sherpa/js/sherpa_init1_08.min.js"></script>
+    <script type="text/javascript">
+    (function(){
+      var stg = new Object();
+      stg.crt="6580323913752"; stg.version="1.04";
+      stg.id=stg.name="adgshp463839735";
+      stg.width="300px"; stg.height="300px";
+      stg.ReferenceKey="K5eLHsffJ04WOALczadteA==";
+      stg.Layout="SquareStatic"; stg.Language="zh-tw";
+      stg.Cid="1953671"; stg.City="17172";
+      stg.OverideConf=false;
+      new AgdSherpa(stg,3).initialize();
+    })();
+    </script>
   </div>
 
-  <!-- KKday Banner -->
-  <div class="banner-slot" id="banner-kkday">
-    <!-- 貼入 KKday 聯盟後台提供的 Banner 代碼 -->
+  <!-- Trip.com Banner -->
+  <div class="banner-slot" id="banner-trip">
+    <iframe src="https://tw.trip.com/partners/ad/SB6938563?Allianceid=7338234&SID=275588888&trip_sub1=" style="width:100%;height:250px" frameborder="0" scrolling="no"></iframe>
   </div>
 
-  <!-- Coupang Banner -->
-  <div class="banner-slot" id="banner-coupang">
-    <!-- 貼入 Coupang 聯盟後台提供的 Banner 代碼 -->
+  <!-- 51Talk 英語試聽 Banner -->
+  <div class="banner-slot" id="banner-51talk">
+    <a href="https://vbtrax.com/track/clicks/7352/c627c2bc980025dbff82ec2bd32e9e4d206b4cc163bcb0f90169b0006e1200a8cd30a2e2566e9d2634ddffd81d?t=https%3A%2F%2Fwap.51talk.com%2Flanding%2Faffiliate_1vs1_01.html"><img src="https://vbtrax.com/track/imp/img/185418/c627c2bc980025dbff82ec2bd32e9e4d206b4cc163bcb0f90169b0006e1200a8cd30a2e2566e9d2634ddffd81d" alt="51Talk 兒童英語試聽" style="max-width:100%;height:auto;" /></a>
   </div>
+
+  <!-- OiKID 英語試聽 Banner -->
+  <div class="banner-slot" id="banner-oikid">
+    <a href="https://pinkrose.info/3J2io?uid1=blog" target="_blank"><img src="https://img.oeya.com/images/202312/1702457792808161940.jpg" alt="OiKID 兒童英語試聽" style="max-width:100%;height:auto;" /></a>
+    <img src="https://adcenter.conn.tw/track/oeya_url_image.php?key=ee8329391dafdd09cb61b2f289293ae9" style="height:1px;width:1px;border:0" />
+  </div>
+
 </aside>
