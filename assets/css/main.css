@@ -392,6 +392,50 @@ img {
   color: var(--color-text-light);
 }
 
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  background: var(--color-white);
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+}
+
+.post-content table td,
+.post-content table th {
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.post-content table tr:last-child td {
+  border-bottom: none;
+}
+
+.post-content table tr:nth-child(even) {
+  background: var(--color-bg);
+}
+
+.post-content table td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+  color: var(--color-accent);
+}
+
+@media (max-width: 768px) {
+  .post-content table {
+    font-size: 0.8rem;
+    display: block;
+    overflow-x: auto;
+  }
+  .post-content table td:first-child {
+    white-space: normal;
+  }
+}
+
 /* ===== Post Banners ===== */
 .post-banner {
   margin: 1.5rem 0;
