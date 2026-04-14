@@ -105,8 +105,30 @@ YUNA和KKday合作，有專屬隨時可用的讀者獨家折扣碼：**KKYUNA94*
 <ins class="kkday-product-media" data-oid="5019" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
 <script type="text/javascript" src="https://kkpartners.kkday.com/iframe.init.1.0.js"></script>
 
-<!-- Agoda 動態搜尋 Widget -->
-<script type="text/javascript" src="//cdn0.agoda.net/images/sherpa/js/init-dynamic_v8.min.js"></script>
+<div id="agoda-widget-container" markdown="0">
+<div id="adgshp164376408"></div>
+<script type="text/javascript" src="https://cdn0.agoda.net/images/sherpa/js/init-dynamic_v8.min.js"></script>
 <script type="text/javascript">
-var stg = new Object(); stg.crt="13660984305754";stg.version="1.05"; stg.id=stg.name="adgshp164376408"; stg.Width="728px"; stg.Height="90px";stg.RefKey="ADbgs9bejcSIKbtCICN7PA==";stg.AutoScrollSpeed=2000;stg.AutoScrollToggle=true;stg.SearchboxShow=false;stg.DiscountedOnly=false;stg.Layout="widedynamic"; stg.Language="zh-tw";stg.ApiKey="273068a7-94b7-48bd-9007-b696f8d71516";stg.Cid="1953671";  stg.City="717899";stg.Currency="TWD";stg.OverideConf=false; new AgdDynamic('adgshp164376408').initialize(stg);
+(function(){
+  var stg = new Object();
+  stg.crt="13660984305754";
+  stg.version="1.05";
+  stg.id=stg.name="adgshp164376408";
+  stg.Width="100%";
+  stg.Height="90px";
+  stg.RefKey="ADbgs9bejcSIKbtCICN7PA==";
+  stg.AutoScrollSpeed=2000;
+  stg.AutoScrollToggle=true;
+  stg.SearchboxShow=false;
+  stg.DiscountedOnly=false;
+  stg.Layout="widedynamic";
+  stg.Language="zh-tw";
+  stg.ApiKey="273068a7-94b7-48bd-9007-b696f8d71516";
+  stg.Cid="1953671";
+  stg.City="717899";
+  stg.Currency="TWD";
+  stg.OverideConf=false;
+  new AgdDynamic('adgshp164376408').initialize(stg);
+})();
 </script>
+</div>
