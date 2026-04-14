@@ -1,17 +1,36 @@
-<!-- 文章結尾 CTA Banner（可放 2-3 個品牌 Banner） -->
-<div class="post-banner post-banner-end">
-  <div class="cta-banners">
-    <!-- Agoda CTA -->
-    <div class="cta-slot">
-      <!-- 貼入 Agoda Banner 代碼 -->
-    </div>
-    <!-- KKday CTA -->
-    <div class="cta-slot">
-      <!-- 貼入 KKday Banner 代碼 -->
-    </div>
-    <!-- Coupang CTA -->
-    <div class="cta-slot">
-      <!-- 貼入 Coupang Banner 代碼 -->
-    </div>
+<!-- 相關文章推薦 -->
+<div class="related-posts">
+  <h3 class="related-posts-title">你可能也會喜歡</h3>
+  <div class="related-posts-grid">
+    {% assign related = "" | split: "" %}
+    {% for cat in page.categories %}
+      {% for post in site.categories[cat] %}
+        {% if post.url != page.url and related.size < 3 %}
+          {% unless related contains post %}
+            {% assign related = related | push: post %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% if related.size < 3 %}
+      {% for post in site.posts %}
+        {% if post.url != page.url and related.size < 3 %}
+          {% unless related contains post %}
+            {% assign related = related | push: post %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% for post in related %}
+    <a href="{{ post.url | relative_url }}" class="related-post-card">
+      {% if post.thumbnail %}
+      <img class="related-post-image" src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+      {% endif %}
+      <div class="related-post-body">
+        <h4 class="related-post-title">{{ post.title }}</h4>
+        <span class="related-post-date">{{ post.date | date: "%Y/%m/%d" }}</span>
+      </div>
+    </a>
+    {% endfor %}
   </div>
 </div>
