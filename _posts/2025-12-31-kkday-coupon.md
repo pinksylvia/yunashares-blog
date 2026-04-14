@@ -17,6 +17,10 @@ description: "持續更新每月KKday最新折扣碼及信用卡優惠，YUNA讀
 
 ![](https://i0.wp.com/yunashares.blog/wp-content/uploads/2025/12/1200-x-628.jpg)
 
+<!-- KKday 熱門商品推薦 Widget -->
+<ins class="kkday-product-media" data-oid="5018" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
+<script type="text/javascript" src="https://kkpartners.kkday.com/iframe.init.1.0.js"></script>
+
 以下全站折扣碼需點選[**KKday x YUNA專屬入口**](https://www.kkday.com/zh-tw?cid=23391)至KKday購買商品才能成功使用，中途不能換瀏覽器或跳轉其他導購網站！
 
 <table><tbody><tr><td>KKAFF400</td><td>全站商品滿 5,000 折 400</td></tr><tr><td>KKAFF1000A</td><td>全站商品滿 10,000 折 1,000</td></tr><tr><td>KKAFFTOUR88</td><td>行程商品享 88 折，上限折抵 300</td></tr><tr><td>AFFNEW88A</td><td>新客全站不限低消享 88 折，上限折抵 150</td></tr><tr><td>KKFLY</td><td><strong>機票商品滿 7,000 折 300</strong></td></tr><tr><td>KKFHP500</td><td><strong>機加酒商品滿 10,000 折 500</strong></td></tr><tr><td>EXCUZ2000</td><td>郵輪滿 30,000 折 2,000</td></tr><tr><td>EXCUZ3000</td><td>郵輪滿 50,000 折 3,000</td></tr></tbody></table>
@@ -96,3 +100,13 @@ A：KKday為國旅卡特約商店，3 步驟下單，馬上核銷補助額度：
 YUNA和KKday合作，有專屬隨時可用的讀者獨家折扣碼：**KKYUNA94**，目前到2026年2月都可以使用，每個帳號都可以使用6次，趕快先存起來，結帳時就可以突然用上了！再次提醒，優惠碼一定要從[**KKday x YUNA專屬入口**](https://www.kkday.com/zh-tw?cid=23391)點擊進入，才能正常領取使用！所以這頁面真的乾貨滿滿，一定要存起來唷！
 
 [KKday x YUNA 讀者優惠折扣碼：KKYUNA94](https://www.kkday.com/zh-tw?cid=23391)
+
+<!-- KKday 推薦商品 Widget -->
+<ins class="kkday-product-media" data-oid="5019" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
+<script type="text/javascript" src="https://kkpartners.kkday.com/iframe.init.1.0.js"></script>
+
+<!-- Agoda 動態搜尋 Widget -->
+<script type="text/javascript" src="//cdn0.agoda.net/images/sherpa/js/init-dynamic_v8.min.js"></script>
+<script type="text/javascript">
+var stg = new Object(); stg.crt="13660984305754";stg.version="1.05"; stg.id=stg.name="adgshp164376408"; stg.Width="728px"; stg.Height="90px";stg.RefKey="ADbgs9bejcSIKbtCICN7PA==";stg.AutoScrollSpeed=2000;stg.AutoScrollToggle=true;stg.SearchboxShow=false;stg.DiscountedOnly=false;stg.Layout="widedynamic"; stg.Language="zh-tw";stg.ApiKey="273068a7-94b7-48bd-9007-b696f8d71516";stg.Cid="1953671";  stg.City="717899";stg.Currency="TWD";stg.OverideConf=false; new AgdDynamic('adgshp164376408').initialize(stg);
+</script>
