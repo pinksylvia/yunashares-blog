@@ -341,6 +341,11 @@ img {
   color: var(--color-accent);
 }
 
+.post-updated {
+  color: var(--color-accent);
+  font-weight: 500;
+}
+
 .post-tags {
   display: flex;
   flex-wrap: wrap;
