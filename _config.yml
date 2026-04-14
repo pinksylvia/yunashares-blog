@@ -1,0 +1,28 @@
+title: Yuna Shares
+description: 旅遊、親子、生活好物分享
+url: "https://yunashares.blog"
+baseurl: ""
+lang: zh-TW
+timezone: Asia/Taipei
+
+# 分頁
+paginate: 10
+paginate_path: "/page/:num/"
+
+# 文章永久連結
+permalink: /:categories/:title/
+
+# 外掛（GitHub Pages 支援）
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+author: Yuna
+
+# 排除
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

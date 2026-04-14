@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="post-full">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y/%m/%d" }}</time>
+      {% if page.categories %}
+      <span class="post-categories">
+        {% for cat in page.categories %}<a href="#">{{ cat }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+      </span>
+      {% endif %}
+    </div>
+    {% if page.tags %}
+    <div class="post-tags">
+      {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+    </div>
+    {% endif %}
+  </header>
+
+  {% include post-banner-top.html %}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% include post-banner-end.html %}
+
+  {% if page.agoda_cid %}
+    {% include agoda-widget.html destination=page.title %}
+  {% endif %}
+  {% if page.kkday_cid %}
+    {% include kkday-widget.html destination=page.title %}
+  {% endif %}
+</article>
