@@ -28,9 +28,13 @@ layout: default
   {% include post-banner-end.html %}
 
   {% if page.agoda_cid %}
-    {% include agoda-widget.html destination=page.title %}
+  <div class="agoda-widget" data-cid="{{ page.agoda_cid }}">
+    <!-- 貼入 Agoda 搜尋 Widget 代碼 -->
+  </div>
   {% endif %}
   {% if page.kkday_cid %}
-    {% include kkday-widget.html destination=page.title %}
+  <div class="kkday-widget" data-cid="{{ page.kkday_cid }}">
+    <!-- 貼入 KKday 動態 Widget 代碼 -->
+  </div>
   {% endif %}
 </article>
