@@ -620,7 +620,11 @@ img {
   }
 
   .sidebar {
-    display: none;
+    order: 2;
+  }
+
+  .sidebar-banners {
+    position: static;
   }
 
   .mobile-banner-slot {
