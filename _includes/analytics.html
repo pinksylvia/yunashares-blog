@@ -5,4 +5,40 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-NDJ7DQF6HV');
+
+  // 聯盟連結點擊自動追蹤（蝦皮 / Agoda / KKday）
+  // 事件名稱：affiliate_click
+  // 自訂參數：network（平台）、link_url（連結）、link_text（按鈕文字）、page_path（當前頁）
+  (function () {
+    var NETWORKS = [
+      { name: 'shopee', match: /(^|\.)shopee\.tw/i },
+      { name: 'agoda',  match: /(^|\.)agoda\.com/i },
+      { name: 'kkday',  match: /(^|\.)kkday\.com/i }
+    ];
+
+    function matchNetwork(href) {
+      try {
+        var host = new URL(href, location.href).hostname;
+        for (var i = 0; i < NETWORKS.length; i++) {
+          if (NETWORKS[i].match.test(host)) return NETWORKS[i].name;
+        }
+      } catch (e) {}
+      return null;
+    }
+
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var href = a.getAttribute('href');
+      if (!href) return;
+      var network = matchNetwork(href);
+      if (!network) return;
+      gtag('event', 'affiliate_click', {
+        network: network,
+        link_url: href,
+        link_text: (a.innerText || '').trim().slice(0, 80),
+        page_path: location.pathname
+      });
+    }, { capture: true });
+  })();
 </script>
