@@ -63,7 +63,7 @@ last_updated: "2026/04/15"
 5. **免運門檻湊單**：善用「猜你喜歡」湊免運，但不要為了湊運費亂買
 
 <div style="text-align:center;margin:2rem 0;">
-<a href="https://s.shopee.tw/2LUO68Px18" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#ee4d2d;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🛒 蝦皮限時優惠搶起來</a>
+<a href="https://s.shopee.tw/7fW1oRGO67" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#ee4d2d;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🛒 蝦皮限時優惠搶起來</a>
 </div>
 
 ## 總結
