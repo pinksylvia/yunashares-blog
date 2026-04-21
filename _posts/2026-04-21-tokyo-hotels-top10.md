@@ -102,7 +102,7 @@ Tokyu Stay 走的是「長住型商務飯店」路線，房內配有迷你廚房
 
 ### 8. Hotel Sunroute Plaza 新宿｜JR 新宿南口正對面、機場巴士直達
 
-<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=1935"><img src="https://pix4.agoda.net/hotelimages/1935/0/8135ae8fb11830e41e84321b0dde6ca3.jpg?s=480x" srcset="https://pix4.agoda.net/hotelimages/1935/0/8135ae8fb11830e41e84321b0dde6ca3.jpg?s=480x 1x, https://pix4.agoda.net/hotelimages/1935/0/8135ae8fb11830e41e84321b0dde6ca3.jpg?s=960x 2x" alt="Hotel Sunroute Plaza Shinjuku" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=1935"><img src="https://pix1.agoda.net/hotelimages/1935/604152888/ef20cba90a510fae219e770f695ec8b9.jpg?s=480x" srcset="https://pix1.agoda.net/hotelimages/1935/604152888/ef20cba90a510fae219e770f695ec8b9.jpg?s=480x 1x, https://pix1.agoda.net/hotelimages/1935/604152888/ef20cba90a510fae219e770f695ec8b9.jpg?s=960x 2x" alt="Hotel Sunroute Plaza Shinjuku" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
 
 Sunroute Plaza 位於 JR 新宿南口正對面，從成田機場搭利木津巴士直接停飯店門口，第一次來日本不熟悉地鐵的旅客可以直接拖行李進飯店，零門檻。房間屬中型偏大、設備老牌可靠，餐廳早餐評價高，超過 24,000 則評論驗證它是新宿最不踩雷的選擇之一，預算稍高一些但住起來最不費力。
 
@@ -112,7 +112,7 @@ Sunroute Plaza 位於 JR 新宿南口正對面，從成田機場搭利木津巴�
 
 ### 9. JR 東日本 Mets Premier 秋葉原｜JR 秋葉原站直結，動漫宅、3C 採購首選
 
-<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=7449879"><img src="https://pix1.agoda.net/hotelimages/7449879/-1/707e6aad19f9759c2fef749ddf3a1420.jpg?s=480x" srcset="https://pix1.agoda.net/hotelimages/7449879/-1/707e6aad19f9759c2fef749ddf3a1420.jpg?s=480x 1x, https://pix1.agoda.net/hotelimages/7449879/-1/707e6aad19f9759c2fef749ddf3a1420.jpg?s=960x 2x" alt="JR East Hotel Mets Premier Akihabara" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=7449879"><img src="https://pix4.agoda.net/hotelimages/7449879/-1/763b3c6f2cd27937fa6bbe59db069f36.jpg?s=480x" srcset="https://pix4.agoda.net/hotelimages/7449879/-1/763b3c6f2cd27937fa6bbe59db069f36.jpg?s=480x 1x, https://pix4.agoda.net/hotelimages/7449879/-1/763b3c6f2cd27937fa6bbe59db069f36.jpg?s=960x 2x" alt="JR East Hotel Mets Premier Akihabara" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
 
 要去秋葉原買 3C、看動漫周邊、逛女僕咖啡的旅客，住秋葉原會省很多通勤時間。JR 東日本 Mets Premier 秋葉原直結 JR 秋葉原站，9.3 分的評分是秋葉原飯店中的天花板，由 JR 集團經營硬體與服務都極有保障。整條昭和通商店街都是電器店與動漫商店，半夜回飯店都還有便利商店和 24 小時餐廳。從秋葉原搭山手線到上野 4 分鐘、東京站 4 分鐘、新宿 16 分鐘，跑東京其他景點也順。
 
