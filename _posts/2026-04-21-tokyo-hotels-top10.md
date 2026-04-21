@@ -11,17 +11,7 @@ agoda_cid: 1953671
 
 {% include propads-tracking.html %}
 
-<!--
-  ─────────────────────────────────────────────────────────────
-  本篇 Agoda 連結說明：
-  - 預設皆使用城市搜尋連結（cid=1953671 + city=5085 = 東京）
-  - 若取得個別飯店 hid，將下方 ___FILLIN_HID___ 替換為實際 hid，
-    格式：?cid=1953671&hid=XXXXXXX，可大幅提升個別飯店點擊轉換率
-  - tag 參數會由 propads-tracking.html 自動注入，無需手動加
-  ─────────────────────────────────────────────────────────────
--->
-
-第一次自由行去東京，最讓人卡關的往往不是行程，是飯店。東京 23 區範圍大、地鐵路線複雜，住錯位置每天通勤可能多花 1-2 小時，預算也容易爆掉。這篇整理 10 間 2026 年 Agoda 上長期高評價、車站走路 5 分鐘內、適合第一次去日本旅客的東京飯店，從新宿、淺草、上野到品川全都涵蓋，幫你快速鎖定符合自己行程的選擇。
+第一次自由行去東京，最讓人卡關的往往不是行程，是飯店。東京 23 區範圍大、地鐵路線複雜，住錯位置每天通勤可能多花 1-2 小時，預算也容易爆掉。這篇整理 10 間 2026 年 Agoda 上長期高評價、車站走路 5 分鐘內、適合第一次去日本旅客的東京飯店，全部評分 8.2 分以上、評論數最少 1,500 則起跳，從新宿、淺草、上野到品川全都涵蓋，幫你快速鎖定符合自己行程的選擇。
 
 立即查看東京飯店即時房價：[Agoda 東京飯店比價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
 
@@ -36,69 +26,109 @@ agoda_cid: 1953671
 - **秋葉原**：動漫宅、買電器者必住，地鐵總武線串起新宿與東京站。
 - **赤坂／六本木**：商務區，安靜、餐廳水準高，預算多一點可考慮。
 
-下面 10 間飯店就照「區域 + 預算」來分類，每間都註明適合誰。
+下面 10 間飯店就照「區域 + 預算」來分類，每間都註明適合誰，並附上 Agoda 真實評分。
 
 ## 東京便宜飯店 TOP 10 推薦
 
 ### 1. APA Hotel 新宿歌舞伎町塔｜新宿超大規模・有大浴場、深夜抵達也安心
 
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=936623"><img src="https://pix5.agoda.net/hotelimages/936/936623/936623_17072117210054605577.jpg?s=480x" srcset="https://pix5.agoda.net/hotelimages/936/936623/936623_17072117210054605577.jpg?s=480x 1x, https://pix5.agoda.net/hotelimages/936/936623/936623_17072117210054605577.jpg?s=960x 2x" alt="APA Hotel Shinjuku-Kabukicho Tower" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+
 APA Hotel 是日本最知名的連鎖商務飯店之一，新宿歌舞伎町塔是旗下最具代表性的旗艦館，位置就在新宿東口走路約 8 分鐘，從成田機場搭利木津巴士可直達。最大亮點是頂樓有男女分開的大浴場，跑了一整天行程回來能泡個熱水澡再睡，CP 值極高。房間雖然不大（日本城市商務飯店的常態），但機能完整、Wi-Fi 穩定、24 小時前台對深夜抵達的旅客特別友善。
 
-立即查看房價：[APA Hotel 新宿歌舞伎町塔 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+**Agoda 評分**：8.2 ／ **真實評論**：20,143 則
+
+立即查看房價：[APA Hotel 新宿歌舞伎町塔 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=936623)
 
 ### 2. Hotel Gracery 新宿｜哥吉拉飯店、走路 3 分鐘到 JR 新宿站
 
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=706347"><img src="https://pix3.agoda.net/hotelimages/706347/-1/5eaaf3eb81136c24baa315c362d49ae8.jpg?s=480x" srcset="https://pix3.agoda.net/hotelimages/706347/-1/5eaaf3eb81136c24baa315c362d49ae8.jpg?s=480x 1x, https://pix3.agoda.net/hotelimages/706347/-1/5eaaf3eb81136c24baa315c362d49ae8.jpg?s=960x 2x" alt="Hotel Gracery Shinjuku" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+
 樓頂那隻巨大的哥吉拉頭像是新宿地標之一，房間裡也有哥吉拉主題房可選，帶孩子或哥吉拉粉絲住這裡會多很多樂趣。位置在歌舞伎町中央，走路 3-5 分鐘到 JR 新宿站，從機場、其他城市轉乘都極方便。樓下就是 TOHO Cinemas 新宿、餐廳街，吃宵夜、買藥妝、找便利商店都是步行範圍。
 
-立即查看房價：[Hotel Gracery 新宿 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+**Agoda 評分**：8.8 ／ **真實評論**：25,261 則
+
+立即查看房價：[Hotel Gracery 新宿 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=706347)
 
 ### 3. Tokyu Stay 新宿｜長住型飯店、房內有洗衣機，很適合 5 天以上行程
 
-Tokyu Stay 走的是「長住型商務飯店」路線，房內配有迷你廚房和洗衣機（而非投幣式），行李多、要洗衣服或是去日本超市買東西想自己料理的旅客非常實用。位置在新宿三丁目，走路 5 分鐘到 JR 新宿站、丸之內線新宿三丁目站直通伊勢丹，逛街、用餐都方便。
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=788273"><img src="https://pix1.agoda.net/hotelimages/788/788273/788273_15071318480032213641.jpg?s=480x" srcset="https://pix1.agoda.net/hotelimages/788/788273/788273_15071318480032213641.jpg?s=480x 1x, https://pix1.agoda.net/hotelimages/788/788273/788273_15071318480032213641.jpg?s=960x 2x" alt="Tokyu Stay Shinjuku" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
 
-立即查看房價：[Tokyu Stay 新宿 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+Tokyu Stay 走的是「長住型商務飯店」路線，房內配有迷你廚房和洗衣機（而非投幣式），行李多、要洗衣服或是去日本超市買東西想自己料理的旅客非常實用。位置在新宿三丁目，走路 5 分鐘到 JR 新宿站、丸之內線新宿三丁目站直通伊勢丹，逛街、用餐都方便。9.0 的評分在新宿區是頂尖水準。
+
+**Agoda 評分**：9.0 ／ **真實評論**：7,282 則
+
+立即查看房價：[Tokyu Stay 新宿 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=788273)
 
 ### 4. 三井花園飯店上野｜上野車站旁、Skyliner 直達，雙機場通勤都方便
 
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=222614"><img src="https://pix5.agoda.net/hotelimages/222614/0/12f91271cbe04bb42038f59639ff2032.jpg?s=480x" srcset="https://pix5.agoda.net/hotelimages/222614/0/12f91271cbe04bb42038f59639ff2032.jpg?s=480x 1x, https://pix5.agoda.net/hotelimages/222614/0/12f91271cbe04bb42038f59639ff2032.jpg?s=960x 2x" alt="Mitsui Garden Hotel Ueno" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+
 三井花園飯店是日本評價最穩定的連鎖品牌之一，上野館位置就在 JR 上野站 1 分鐘步行範圍，從成田機場搭京成 Skyliner 約 41 分鐘直達上野，比新宿區飯店少了一段轉乘。樓下有阿美橫町、上野公園、阿美橫商店街，吃飯與藥妝藥局集中。頂樓設有男女分開的大浴場，是這個價位中少見的配備。
 
-立即查看房價：[三井花園飯店上野 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+**Agoda 評分**：8.8 ／ **真實評論**：11,673 則
+
+立即查看房價：[三井花園飯店上野 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=222614)
 
 ### 5. 淺草東武飯店｜淺草站直結、看晴空塔的最佳位置
 
-淺草東武飯店與東武鐵道淺草站直結，下雨天也不用撐傘，房間部分樓層直接面對晴空塔，景觀房晚上看夜景非常療癒。位置走路 5 分鐘到雷門、淺草寺，是逛日式老東京、買仙貝伴手禮、體驗人力車的最佳基地。從淺草搭東武晴空塔線到晴空塔 1 站、3 分鐘，行程順又省車費。
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=12439649"><img src="https://pix5.agoda.net/hotelimages/12439649/-1/b10b50522918226b55d3adeeefe23b6a.jpg?s=480x" srcset="https://pix5.agoda.net/hotelimages/12439649/-1/b10b50522918226b55d3adeeefe23b6a.jpg?s=480x 1x, https://pix5.agoda.net/hotelimages/12439649/-1/b10b50522918226b55d3adeeefe23b6a.jpg?s=960x 2x" alt="Asakusa Tobu Hotel" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
 
-立即查看房價：[淺草東武飯店 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+淺草東武飯店與東武鐵道淺草站直結，下雨天也不用撐傘，房間部分樓層直接面對晴空塔，景觀房晚上看夜景非常療癒。位置走路 5 分鐘到雷門、淺草寺，是逛日式老東京、買仙貝伴手禮、體驗人力車的最佳基地。從淺草搭東武晴空塔線到晴空塔 1 站、3 分鐘，行程順又省車費。9.4 的高分代表住客滿意度極高。
 
-### 6. Richmond Hotel Premier 東京押上｜晴空塔旁、評價穩定的中價位選擇
+**Agoda 評分**：9.4 ／ **真實評論**：11,620 則
 
-押上一帶是這幾年東京新興的住宿區，價格比淺草再低一些，地鐵到淺草只要 3 分鐘、到秋葉原 12 分鐘、到新宿 30 分鐘。Richmond Hotel 是日本本土連鎖品牌中口碑最穩的之一，房間明顯大於同價位的商務飯店，浴室乾濕分離、馬桶溫熱座等基本日式飯店配備都到位，第一次來日本住起來不會踩雷。
+立即查看房價：[淺草東武飯店 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=12439649)
 
-立即查看房價：[Richmond Hotel Premier 東京押上 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+### 6. 京成 Richmond 飯店東京押上｜晴空塔旁、押上站直達，東京老街新熱區
+
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=29386950"><img src="https://pix3.agoda.net/hotelimages/29386950/-1/85b064a88f5f2d5eef0effc450641b49.jpg?s=480x" srcset="https://pix3.agoda.net/hotelimages/29386950/-1/85b064a88f5f2d5eef0effc450641b49.jpg?s=480x 1x, https://pix3.agoda.net/hotelimages/29386950/-1/85b064a88f5f2d5eef0effc450641b49.jpg?s=960x 2x" alt="Keisei Richmond Hotel Tokyo Oshiage" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+
+押上一帶是這幾年東京新興的住宿區，價格比淺草再低一些，地鐵到淺草只要 3 分鐘、到秋葉原 12 分鐘、到新宿 30 分鐘。京成 Richmond 飯店東京押上 2022 年新開幕，硬體新穎，房間明顯大於同價位的商務飯店，浴室乾濕分離、馬桶溫熱座等基本日式飯店配備都到位。京成電鐵直達成田機場是另一大優勢，第一次來日本住起來不會踩雷。
+
+**Agoda 評分**：9.4 ／ **真實評論**：4,954 則
+
+立即查看房價：[京成 Richmond 飯店東京押上 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=29386950)
 
 ### 7. 品川王子大飯店｜品川車站旁、要去京都大阪富士山的首選基地
 
-如果行程不只東京，要跑京都、大阪、富士山、箱根，住品川可以省掉每天從新宿跑到品川搭新幹線的時間。品川王子大飯店就在 JR 品川站徒步 2 分鐘，從成田機場搭 NEX 約 65 分鐘直達。飯店規模極大、有多間餐廳、便利商店、甚至水族館（品川王子水族館），對親子家庭也很友善。
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=9358"><img src="https://pix4.agoda.net/hotelimages/9358/-1/5e4878d28480b3f76495d8c49fd1527c.jpg?s=480x" srcset="https://pix4.agoda.net/hotelimages/9358/-1/5e4878d28480b3f76495d8c49fd1527c.jpg?s=480x 1x, https://pix4.agoda.net/hotelimages/9358/-1/5e4878d28480b3f76495d8c49fd1527c.jpg?s=960x 2x" alt="Shinagawa Prince Hotel" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
 
-立即查看房價：[品川王子大飯店 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+如果行程不只東京，要跑京都、大阪、富士山、箱根，住品川可以省掉每天從新宿跑到品川搭新幹線的時間。品川王子大飯店就在 JR 品川站徒步 2 分鐘，從成田機場搭 NEX 約 65 分鐘直達。飯店規模極大、有多間餐廳、便利商店、甚至水族館（品川王子水族館），對親子家庭也很友善。超過 26,000 則評論的數量，代表這是東京住宿經驗最被驗證的選擇之一。
 
-### 8. Sunroute Plaza 新宿｜JR 新宿南口正對面、機場巴士直達
+**Agoda 評分**：8.4 ／ **真實評論**：26,451 則
 
-Sunroute Plaza 位於 JR 新宿南口正對面，從成田機場搭利木津巴士直接停飯店門口，第一次來日本不熟悉地鐵的旅客可以直接拖行李進飯店，零門檻。房間屬中型偏大、設備老牌可靠，餐廳早餐評價高，預算稍高一些但住起來最不費力。
+立即查看房價：[品川王子大飯店 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=9358)
 
-立即查看房價：[Sunroute Plaza 新宿 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+### 8. Hotel Sunroute Plaza 新宿｜JR 新宿南口正對面、機場巴士直達
 
-### 9. UNIZO Inn 秋葉原｜秋葉原電器街旁、動漫宅必住
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=1935"><img src="https://pix4.agoda.net/hotelimages/1935/0/8135ae8fb11830e41e84321b0dde6ca3.jpg?s=480x" srcset="https://pix4.agoda.net/hotelimages/1935/0/8135ae8fb11830e41e84321b0dde6ca3.jpg?s=480x 1x, https://pix4.agoda.net/hotelimages/1935/0/8135ae8fb11830e41e84321b0dde6ca3.jpg?s=960x 2x" alt="Hotel Sunroute Plaza Shinjuku" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
 
-要去秋葉原買 3C、看動漫周邊、逛女僕咖啡的旅客，住秋葉原會省很多通勤時間。UNIZO Inn 秋葉原走路 5 分鐘到 JR 秋葉原站，整條昭和通商店街都是電器店與動漫商店，半夜回飯店都還有便利商店和 24 小時餐廳。從秋葉原搭山手線到上野 4 分鐘、東京站 4 分鐘、新宿 16 分鐘，跑東京其他景點也順。
+Sunroute Plaza 位於 JR 新宿南口正對面，從成田機場搭利木津巴士直接停飯店門口，第一次來日本不熟悉地鐵的旅客可以直接拖行李進飯店，零門檻。房間屬中型偏大、設備老牌可靠，餐廳早餐評價高，超過 24,000 則評論驗證它是新宿最不踩雷的選擇之一，預算稍高一些但住起來最不費力。
 
-立即查看房價：[UNIZO Inn 秋葉原 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+**Agoda 評分**：8.7 ／ **真實評論**：24,204 則
+
+立即查看房價：[Hotel Sunroute Plaza 新宿 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=1935)
+
+### 9. JR 東日本 Mets Premier 秋葉原｜JR 秋葉原站直結，動漫宅、3C 採購首選
+
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=7449879"><img src="https://pix1.agoda.net/hotelimages/7449879/-1/707e6aad19f9759c2fef749ddf3a1420.jpg?s=480x" srcset="https://pix1.agoda.net/hotelimages/7449879/-1/707e6aad19f9759c2fef749ddf3a1420.jpg?s=480x 1x, https://pix1.agoda.net/hotelimages/7449879/-1/707e6aad19f9759c2fef749ddf3a1420.jpg?s=960x 2x" alt="JR East Hotel Mets Premier Akihabara" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+
+要去秋葉原買 3C、看動漫周邊、逛女僕咖啡的旅客，住秋葉原會省很多通勤時間。JR 東日本 Mets Premier 秋葉原直結 JR 秋葉原站，9.3 分的評分是秋葉原飯店中的天花板，由 JR 集團經營硬體與服務都極有保障。整條昭和通商店街都是電器店與動漫商店，半夜回飯店都還有便利商店和 24 小時餐廳。從秋葉原搭山手線到上野 4 分鐘、東京站 4 分鐘、新宿 16 分鐘，跑東京其他景點也順。
+
+**Agoda 評分**：9.3 ／ **真實評論**：4,121 則
+
+立即查看房價：[JR 東日本 Mets Premier 秋葉原 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=7449879)
 
 ### 10. Hotel Mystays Premier 赤坂｜商務區安靜選擇、餐廳水準高
 
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=1194463"><img src="https://pix4.agoda.net/hotelimages/37624479/0/90f0d56b404c31a6fca21943aa6f223d.jpg?s=480x" srcset="https://pix4.agoda.net/hotelimages/37624479/0/90f0d56b404c31a6fca21943aa6f223d.jpg?s=480x 1x, https://pix4.agoda.net/hotelimages/37624479/0/90f0d56b404c31a6fca21943aa6f223d.jpg?s=960x 2x" alt="HOTEL MYSTAYS PREMIER Akasaka" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+
 赤坂是東京的商務金融區，飯店入住的多為商務客，整體環境安靜、生活機能完整、餐廳水準高，是想避開觀光客喧鬧的旅客好選擇。Hotel Mystays Premier 赤坂房間大於東京平均、浴缸獨立，地鐵赤坂站走路 3 分鐘，到六本木、表參道、新宿都在 15 分鐘地鐵範圍內。情侶或商務旅客住這裡，舒適度比新宿區再上一個等級。
 
-立即查看房價：[Hotel Mystays Premier 赤坂 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085)
+**Agoda 評分**：8.6 ／ **真實評論**：1,555 則
+
+立即查看房價：[Hotel Mystays Premier 赤坂 Agoda 訂房](https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=1194463)
 
 ## 直接搜尋你的入住日期：Agoda 東京即時房價
 
@@ -139,19 +169,19 @@ new AgdSherpa(stg).initialize();
 
 <table>
   <thead>
-    <tr><th>飯店名稱</th><th>區域</th><th>最適合</th><th>訂房</th></tr>
+    <tr><th>飯店名稱</th><th>區域</th><th>Agoda 評分</th><th>最適合</th><th>訂房</th></tr>
   </thead>
   <tbody>
-    <tr><td>APA Hotel 新宿歌舞伎町塔</td><td>新宿</td><td>大浴場 / 深夜抵達</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>Hotel Gracery 新宿</td><td>新宿</td><td>哥吉拉房 / JR 直走</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>Tokyu Stay 新宿</td><td>新宿三丁目</td><td>長住 / 房內洗衣機</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>三井花園飯店上野</td><td>上野</td><td>Skyliner 直達 / 大浴場</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>淺草東武飯店</td><td>淺草</td><td>晴空塔景 / 站直結</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>Richmond Hotel Premier 東京押上</td><td>押上</td><td>中價位高 CP</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>品川王子大飯店</td><td>品川</td><td>新幹線 / 親子</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>Sunroute Plaza 新宿</td><td>新宿南口</td><td>機場巴士直達</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>UNIZO Inn 秋葉原</td><td>秋葉原</td><td>動漫宅 / 3C 採購</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
-    <tr><td>Hotel Mystays Premier 赤坂</td><td>赤坂</td><td>安靜 / 商務 / 情侶</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1953671&city=5085">查看</a></td></tr>
+    <tr><td>APA Hotel 新宿歌舞伎町塔</td><td>新宿</td><td>8.2</td><td>大浴場 / 深夜抵達</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=936623">查看</a></td></tr>
+    <tr><td>Hotel Gracery 新宿</td><td>新宿</td><td>8.8</td><td>哥吉拉房 / JR 直走</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=706347">查看</a></td></tr>
+    <tr><td>Tokyu Stay 新宿</td><td>新宿三丁目</td><td>9.0</td><td>長住 / 房內洗衣機</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=788273">查看</a></td></tr>
+    <tr><td>三井花園飯店上野</td><td>上野</td><td>8.8</td><td>Skyliner 直達 / 大浴場</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=222614">查看</a></td></tr>
+    <tr><td>淺草東武飯店</td><td>淺草</td><td>9.4</td><td>晴空塔景 / 站直結</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=12439649">查看</a></td></tr>
+    <tr><td>京成 Richmond 飯店東京押上</td><td>押上</td><td>9.4</td><td>新硬體 / 京成直達機場</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=29386950">查看</a></td></tr>
+    <tr><td>品川王子大飯店</td><td>品川</td><td>8.4</td><td>新幹線 / 親子</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=9358">查看</a></td></tr>
+    <tr><td>Hotel Sunroute Plaza 新宿</td><td>新宿南口</td><td>8.7</td><td>機場巴士直達</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=1935">查看</a></td></tr>
+    <tr><td>JR 東日本 Mets Premier 秋葉原</td><td>秋葉原</td><td>9.3</td><td>動漫宅 / JR 站直結</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=7449879">查看</a></td></tr>
+    <tr><td>Hotel Mystays Premier 赤坂</td><td>赤坂</td><td>8.6</td><td>安靜 / 商務 / 情侶</td><td><a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=1194463">查看</a></td></tr>
   </tbody>
 </table>
 
