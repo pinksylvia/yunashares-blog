@@ -112,7 +112,7 @@ Sunroute Plaza 位於 JR 新宿南口正對面，從成田機場搭利木津巴�
 
 ### 9. JR 東日本 Mets Premier 秋葉原｜JR 秋葉原站直結，動漫宅、3C 採購首選
 
-<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=7449879"><img src="https://pix1.agoda.net/hotelimages/7449879/-1/89e671e82ae13a152e1b70e27d918869.jpg?s=480x" srcset="https://pix1.agoda.net/hotelimages/7449879/-1/89e671e82ae13a152e1b70e27d918869.jpg?s=480x 1x, https://pix1.agoda.net/hotelimages/7449879/-1/89e671e82ae13a152e1b70e27d918869.jpg?s=960x 2x" alt="JR East Hotel Mets Premier Akihabara" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
+<a href="https://www.agoda.com/partners/partnersearch.aspx?cid=1953671&hid=7449879"><img src="https://pix1.agoda.net/hotelimages/7449879/-1/89e671e82ae13a152e1b70e27d918869.jpg?s=480x360" srcset="https://pix1.agoda.net/hotelimages/7449879/-1/89e671e82ae13a152e1b70e27d918869.jpg?s=480x360 1x, https://pix1.agoda.net/hotelimages/7449879/-1/89e671e82ae13a152e1b70e27d918869.jpg?s=960x720 2x" alt="JR East Hotel Mets Premier Akihabara" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;"></a>
 
 要去秋葉原買 3C、看動漫周邊、逛女僕咖啡的旅客，住秋葉原會省很多通勤時間。JR 東日本 Mets Premier 秋葉原直結 JR 秋葉原站，9.3 分的評分是秋葉原飯店中的天花板，由 JR 集團經營硬體與服務都極有保障。整條昭和通商店街都是電器店與動漫商店，半夜回飯店都還有便利商店和 24 小時餐廳。從秋葉原搭山手線到上野 4 分鐘、東京站 4 分鐘、新宿 16 分鐘，跑東京其他景點也順。
 
