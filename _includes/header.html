@@ -1,14 +1,38 @@
 <header class="site-header">
   <div class="container">
-    <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.title }}</a>
-    <nav class="site-nav">
+    <a href="{{ '/' | relative_url }}" class="site-brand" aria-label="{{ site.title }}">
+      <span class="site-brand-icon" aria-hidden="true">
+        <svg viewBox="0 0 120 40" width="44" height="44" xmlns="http://www.w3.org/2000/svg">
+          <g transform="translate(22, 20)" fill="none" stroke="currentColor" stroke-linejoin="round">
+            <circle cx="0" cy="-6" r="5.5" stroke-width="1"/>
+            <path d="M -18,6 L -6,-6 L -2,-2 L 4,-8 L 10,-2 L 18,6 Z" stroke-width="1.2"/>
+            <path d="M -20,10 Q -12,12 -4,10 T 12,10 T 20,10" stroke-width="0.9"/>
+          </g>
+        </svg>
+      </span>
+      <span class="site-brand-text">
+        <span class="site-brand-title">Yuna Shares</span>
+        <span class="site-brand-sub">旅途 · 好物 · 日常</span>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="主選單">
       <button class="nav-toggle" aria-label="選單" aria-expanded="false">
         <span class="hamburger"></span>
       </button>
       <ul class="nav-links">
-        <li><a href="{{ '/' | relative_url }}">首頁</a></li>
-        <li><a href="{{ '/about' | relative_url }}">關於我</a></li>
-        <li><a href="{{ '/contact' | relative_url }}">聯絡方式</a></li>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/category/travel/' | relative_url }}">Travel</a></li>
+        <li><a href="{{ '/category/finds/' | relative_url }}">Finds</a></li>
+        <li><a href="{{ '/about' | relative_url }}">About</a></li>
+        <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+        <li class="nav-search">
+          <a href="{{ '/search' | relative_url }}" aria-label="搜尋">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="11" cy="11" r="7"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+          </a>
+        </li>
       </ul>
     </nav>
   </div>
