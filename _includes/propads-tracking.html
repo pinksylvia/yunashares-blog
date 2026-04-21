@@ -1,0 +1,88 @@
+<!--
+  PropellerAds click_id + zone 追蹤
+  ────────────────────────────────────────
+  用途：
+    1. 讀取 PropellerAds 投放 URL 帶來的 ?click_id=&zone= 參數
+    2. 寫入 cookie（30 天 TTL，與 Agoda cookie 視窗一致）
+    3. 站內跳頁時若 URL 沒帶參數，自動從 cookie 讀回
+    4. 把 tag=p_{click_id}_z{zone_id} 注入頁面所有 agoda.com 連結
+    5. 暴露 window.PROPADS_AGODA_TAG 供 Agoda Sherpa widget 使用
+
+  使用方式：
+    在 _posts/*.md 或 _layouts/post.html 內加入：
+      {% include propads-tracking.html %}
+
+  PropellerAds 投放 URL 範例：
+    https://yunashares.blog/日本旅遊/tokyo-hotels-top10/?click_id=${SUBID}&zone=${ZONEID}
+
+  tag 格式（與 Shopee bridge 對齊，方便共用 Apps Script）：
+    p_{click_id}_z{zone_id}    （PropellerAds 來源）
+    p_organic                  （無 click_id 時 fallback）
+-->
+<script>
+(function () {
+  'use strict';
+
+  var COOKIE_CLICK  = 'pp_clickid';
+  var COOKIE_ZONE   = 'pp_zoneid';
+  var COOKIE_TTL    = 30 * 24 * 60 * 60; // 30 天
+  var SOURCE_PREFIX = 'p_';               // PropellerAds 流量前綴
+
+  function getCookie(name) {
+    var m = document.cookie.match(new RegExp('(?:^|; )' + name + '=([^;]*)'));
+    return m ? decodeURIComponent(m[1]) : '';
+  }
+  function setCookie(name, value) {
+    document.cookie = name + '=' + encodeURIComponent(value) +
+      '; path=/; max-age=' + COOKIE_TTL + '; SameSite=Lax';
+  }
+
+  // ── 1. 讀取參數 ──
+  var qs = new URLSearchParams(window.location.search);
+  var clickId = qs.get('click_id') || qs.get('clickid') || qs.get('subid') || '';
+  var zoneId  = qs.get('zone')     || qs.get('zoneid')  || qs.get('zone_id') || '';
+
+  // URL 沒帶就讀回先前 cookie（解決站內跳頁失憶問題）
+  if (!clickId) clickId = getCookie(COOKIE_CLICK);
+  if (!zoneId)  zoneId  = getCookie(COOKIE_ZONE);
+
+  // 重新寫回 cookie 延長 30 天
+  if (clickId) setCookie(COOKIE_CLICK, clickId);
+  if (zoneId)  setCookie(COOKIE_ZONE,  zoneId);
+
+  // ── 2. 組 Agoda subid（後台報表會帶回此欄位） ──
+  var tag = SOURCE_PREFIX + (clickId || 'organic');
+  if (zoneId) tag += '_z' + zoneId;
+
+  // 暴露給 Agoda Sherpa widget
+  window.PROPADS_AGODA_TAG = tag;
+
+  // ── 3. 注入 tag 到所有 Agoda 連結 ──
+  function injectTag() {
+    var links = document.querySelectorAll('a[href*="agoda.com"]');
+    for (var i = 0; i < links.length; i++) {
+      var a = links[i];
+      try {
+        var u = new URL(a.href, location.href);
+        u.searchParams.set('tag', tag);
+        a.href = u.toString();
+      } catch (e) {}
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', injectTag);
+  } else {
+    injectTag();
+  }
+
+  // ── 4. Debug 工具（瀏覽器 Console 可查） ──
+  window.__propads_debug = {
+    clickId: clickId,
+    zoneId:  zoneId,
+    tag:     tag,
+    fromUrl: !!qs.get('click_id'),
+    fromCookie: !qs.get('click_id') && !!getCookie(COOKIE_CLICK)
+  };
+})();
+</script>
