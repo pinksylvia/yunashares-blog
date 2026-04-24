@@ -1,0 +1,50 @@
+<!-- Taboola Pixel Code -->
+<script type='text/javascript'>
+  window._tfa = window._tfa || [];
+  window._tfa.push({notify: 'event', name: 'page_view', id: 2029734});
+  !function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/unip/2029734/tfa.js',
+  'tb_tfa_script');
+
+  // 聯盟連結點擊自動追蹤：Taboola custom event
+  // 事件名稱：affiliate_click（與 GA 事件名對齊，方便對帳）
+  // 觸發：點擊 Shopee / Agoda / KKday 連結時
+  (function () {
+    var NETWORKS = [
+      { name: 'shopee', match: /(^|\.)shopee\.tw/i },
+      { name: 'agoda',  match: /(^|\.)agoda\.com/i },
+      { name: 'kkday',  match: /(^|\.)kkday\.com/i }
+    ];
+
+    function matchNetwork(href) {
+      try {
+        var host = new URL(href, location.href).hostname;
+        for (var i = 0; i < NETWORKS.length; i++) {
+          if (NETWORKS[i].match.test(host)) return NETWORKS[i].name;
+        }
+      } catch (e) {}
+      return null;
+    }
+
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var href = a.getAttribute('href');
+      if (!href) return;
+      var network = matchNetwork(href);
+      if (!network) return;
+      window._tfa = window._tfa || [];
+      window._tfa.push({
+        notify: 'event',
+        name: 'affiliate_click_' + network,
+        id: 2029734
+      });
+    }, { capture: true });
+  })();
+</script>
+<!-- End of Taboola Pixel Code -->
