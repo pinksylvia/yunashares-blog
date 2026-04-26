@@ -672,8 +672,13 @@ img {
 }
 
 
-/* ── 英文落地頁專用字型（覆蓋 Noto Sans TC 在英文標點的怪渲染） ── */
-body.landing-page {
+/* ── 英文頁面專用字型（覆蓋 Noto Sans TC 在英文標點的怪渲染） ──
+   套用範圍：
+   - body.landing-page  → landing layout（英文落地頁）
+   - body.en-page       → default layout 在 /en/ 路徑下（英文資訊頁）
+*/
+body.landing-page,
+body.en-page {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
   font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
   -webkit-font-smoothing: antialiased;
@@ -681,7 +686,10 @@ body.landing-page {
 }
 body.landing-page h1,
 body.landing-page h2,
-body.landing-page h3 {
+body.landing-page h3,
+body.en-page h1,
+body.en-page h2,
+body.en-page h3 {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
   letter-spacing: -0.01em;
 }
