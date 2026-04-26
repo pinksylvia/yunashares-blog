@@ -1,0 +1,120 @@
+<!--
+  Amazon Associates 落地頁追蹤
+  ────────────────────────────────────────
+  功能：
+    1. 落地時讀 URL 上的 ?gclid=...，寫進 cookie（30 天 TTL）
+    2. 在所有 amazon.com 連結注入 ascsubtag={截短的 gclid}（Amazon 後台 sub-tag 報表會帶）
+       - amzn.to 短連結會被 Amazon 重導向時剝參數，效果有限，所以只處理完整 amazon.com URL
+    3. 點 amazon 連結時 fire 兩個事件：
+       a. gtag('event', 'amazon_click', ...)         → GA4 / GA4-Ads link
+       b. gtag('event', 'conversion', { send_to })   → Google Ads 即時轉換訊號（拿到 conversion ID 後填入下方）
+
+  使用方式：
+    在英文落地頁 markdown 加入：
+      {% raw %}{% include amazon-tracking.html %}{% endraw %}
+
+  Google Ads conversion 設定步驟：
+    Google Ads → Goals → Conversions → New → 自訂事件名 amazon_click
+    複製 send_to 字串（格式：AW-XXXXXXXXX/YYYYYYYYY）填入下方 GADS_CONVERSION_ID 變數
+    填入後再 deploy，這個事件就會直接灌到 Ads 出價優化器
+-->
+<script>
+(function () {
+  'use strict';
+
+  // ⚠️ 取得 Google Ads conversion ID 後填這裡（範例：'AW-123456789/AbC-D_efG-h12_34-567'）
+  var GADS_CONVERSION_ID = '';
+
+  var COOKIE_GCLID  = 'amz_gclid';
+  var COOKIE_SUBID  = 'amz_subid';   // 萬一其他 ad network 有 subid
+  var COOKIE_TTL    = 30 * 24 * 60 * 60; // 30 天
+  var ASCSUBTAG_MAX = 50;             // Amazon ascsubtag 字元上限
+
+  function getCookie(name) {
+    var m = document.cookie.match(new RegExp('(?:^|; )' + name + '=([^;]*)'));
+    return m ? decodeURIComponent(m[1]) : '';
+  }
+  function setCookie(name, value) {
+    document.cookie = name + '=' + encodeURIComponent(value) +
+      '; path=/; max-age=' + COOKIE_TTL + '; SameSite=Lax';
+  }
+
+  // ── 1. 讀取 gclid（Ads 點擊識別碼） ──
+  var qs = new URLSearchParams(window.location.search);
+  var gclid = qs.get('gclid') || qs.get('gbraid') || qs.get('wbraid') || '';
+  var subid = qs.get('subid') || qs.get('sub_id') || '';
+
+  if (!gclid) gclid = getCookie(COOKIE_GCLID);
+  if (!subid) subid = getCookie(COOKIE_SUBID);
+
+  if (gclid) setCookie(COOKIE_GCLID, gclid);
+  if (subid) setCookie(COOKIE_SUBID, subid);
+
+  // ── 2. 組 ascsubtag（Amazon 後台 sub-tag 報表用） ──
+  // 格式：g_{gclid}_s_{subid}，截到 50 字元
+  var ascParts = [];
+  if (gclid) ascParts.push('g' + gclid);
+  if (subid) ascParts.push('s' + subid);
+  if (ascParts.length === 0) ascParts.push('organic');
+  var ascSubtag = ascParts.join('_').substring(0, ASCSUBTAG_MAX);
+
+  // ── 3. 注入 ascsubtag 到所有 amazon.com 連結 ──
+  function injectAscSubtag() {
+    var links = document.querySelectorAll('a[href*="amazon.com/"], a[href*="amazon.ca/"], a[href*="amazon.co.uk/"]');
+    for (var i = 0; i < links.length; i++) {
+      var a = links[i];
+      try {
+        var u = new URL(a.href, location.href);
+        u.searchParams.set('ascsubtag', ascSubtag);
+        a.href = u.toString();
+      } catch (e) {}
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', injectAscSubtag);
+  } else {
+    injectAscSubtag();
+  }
+
+  // ── 4. 點擊事件追蹤 + Google Ads conversion ──
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href]');
+    if (!a) return;
+    var href = a.getAttribute('href') || '';
+    var isAmazon = /(^|\.)amazon\.(com|ca|co\.uk|de|co\.jp|fr|it|es)\b/i.test(
+      (function () { try { return new URL(href, location.href).hostname; } catch (e) { return ''; } })()
+    ) || /^https?:\/\/amzn\.to\//i.test(href);
+    if (!isAmazon) return;
+
+    // GA4 事件
+    if (typeof gtag === 'function') {
+      gtag('event', 'amazon_click', {
+        link_url:   href,
+        link_text:  (a.innerText || '').trim().slice(0, 80),
+        page_path:  location.pathname,
+        ascsubtag:  ascSubtag,
+        gclid:      gclid || ''
+      });
+
+      // Google Ads conversion（拿到 ID 才會送）
+      if (GADS_CONVERSION_ID) {
+        gtag('event', 'conversion', {
+          send_to: GADS_CONVERSION_ID,
+          transaction_id: ''
+        });
+      }
+    }
+  }, { capture: true });
+
+  // ── 5. Debug ──
+  window.__amazon_debug = {
+    gclid: gclid,
+    subid: subid,
+    ascsubtag: ascSubtag,
+    fromUrl: !!qs.get('gclid'),
+    fromCookie: !qs.get('gclid') && !!getCookie(COOKIE_GCLID),
+    gads_id_set: !!GADS_CONVERSION_ID
+  };
+})();
+</script>
