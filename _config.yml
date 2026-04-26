@@ -10,13 +10,14 @@ paginate: 10
 paginate_path: "/page/:num/"
 
 # 文章永久連結
-permalink: /:categories/:title/
+permalink: /:title/
 
 # 外掛（GitHub Pages 支援）
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # SEO
 author: Yuna

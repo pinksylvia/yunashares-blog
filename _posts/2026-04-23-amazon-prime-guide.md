@@ -6,6 +6,8 @@ categories: [購物折扣, 生活好物]
 tags: [Amazon, 美國Amazon, Prime會員, 海外購物, 網購攻略, 原文書, Kindle]
 description: "Amazon美國網購完整攻略！從台灣怎麼買Amazon最划算？哪些商品值得從美國買回來？Prime會員台灣人用得到嗎？一篇看懂Amazon購物全攻略與Prime會員權益分析。"
 last_updated: "2026/04/23"
+redirect_from:
+  - /購物折扣/生活好物/amazon-prime-guide/
 ---
 
 你有沒有這種經驗：想買某個美國品牌的保養品，找遍台灣代購都缺貨；想買原文書，台灣書店售價是美國的 2 倍；想買 Kindle 電子書，根本找不到中文介面？

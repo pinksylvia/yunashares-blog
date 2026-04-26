@@ -5,8 +5,9 @@ date: 2026-04-21
 categories: [日本旅遊]
 tags: [2026旅遊, Agoda, 東京, 日本自由行, 飯店推薦, 新宿, 淺草, 上野, 品川, 秋葉原]
 description: "2026 東京便宜飯店 TOP 10 整理，從新宿、淺草、上野到品川，挑選車站近、Agoda 高評價、第一次自由行也不會踩雷的飯店，附訂房省錢小撇步與常見問題。"
-permalink: /japan/tokyo-hotels-top10/
 agoda_cid: 1953671
+redirect_from:
+  - /japan/tokyo-hotels-top10/
 ---
 
 {% include propads-tracking.html %}
