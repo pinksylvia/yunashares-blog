@@ -61,12 +61,12 @@ Where a post is **sponsored** (the brand paid us a flat fee in addition to or in
 
 ## Your Trust Matters
 
-We take FTC compliance and reader trust seriously. If you ever feel a piece of content was misleading or that a disclosure was unclear, please [contact us](/contact/) — we will review and correct it.
+We take FTC compliance and reader trust seriously. If you ever feel a piece of content was misleading or that a disclosure was unclear, please [contact us](/en/contact/) — we will review and correct it.
 
 ## Related Pages
 
 - [Privacy Policy](/en/privacy/) — how we handle your data
-- [Contact](/contact/) — get in touch
+- [Contact](/en/contact/) — get in touch
 - 中文：每篇含合作行銷連結的文章底部均附簡短揭露聲明。完整 [隱私權政策](/privacy/) 可參考中文版。
 
 </div>

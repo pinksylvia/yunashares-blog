@@ -613,6 +613,34 @@ img {
   min-height: 100vh;
 }
 
+/* Landing 頁面：容器加寬 + 內容置中（覆蓋全站 .page-content 780px 預設） */
+body.landing-page .container {
+  max-width: 1080px;
+}
+body.landing-page .page-content {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 0 0.5rem;
+}
+/* CTA 跟 hero 圖視覺上吃滿內容寬，不要被 inline image 預設行為卡住 */
+body.landing-page .page-content img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+/* 表格在窄螢幕可橫向捲動 */
+body.landing-page .page-content table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+@media (max-width: 768px) {
+  body.landing-page .page-content {
+    padding: 0;
+  }
+}
+
 /* ===== RWD ===== */
 @media (max-width: 768px) {
   .layout-with-sidebar {

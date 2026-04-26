@@ -89,7 +89,7 @@ You have the right to:
 - Opt out of the sale or sharing of personal information (we do not sell your data)
 - Non-discrimination for exercising your rights
 
-To exercise any of these rights, contact us via the [Contact](/contact/) page.
+To exercise any of these rights, contact us via the [Contact](/en/contact/) page.
 
 ## Children's Privacy
 
@@ -111,6 +111,6 @@ We may update this Privacy Policy occasionally. The "Last updated" date at the t
 
 ## Contact
 
-For privacy questions or to exercise your rights, please use the [Contact](/contact/) page.
+For privacy questions or to exercise your rights, please use the [Contact](/en/contact/) page.
 
 </div>
