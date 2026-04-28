@@ -8,16 +8,7 @@ permalink: /contact/
 
 # 聯絡方式
 
-哈囉，我是 **Yuna**！感謝您對 Yuna Shares 的關注，如有任何問題或合作提案，歡迎透過以下方式聯繫我：
-
-<div style="display:flex;flex-wrap:wrap;align-items:center;gap:1.5rem;margin:1.5rem 0 2rem 0;">
-  <img src="{{ '/assets/images/yuna-avatar.jpg' | relative_url }}" alt="Yuna" style="width:128px;height:128px;border-radius:50%;object-fit:cover;flex-shrink:0;" loading="lazy" />
-  <div>
-    <p style="margin:0;"><strong>姓名：</strong>Yuna</p>
-    <p style="margin:0;"><strong>國籍：</strong>Taiwan 🇹🇼</p>
-    <p style="margin:0;"><strong>網站：</strong><a href="https://yunashares.blog">yunashares.blog</a></p>
-  </div>
-</div>
+感謝您對 Yuna Shares 的關注！如有任何問題或合作提案，歡迎透過以下方式聯繫我：
 
 ## Email
 

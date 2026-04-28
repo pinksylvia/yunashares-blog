@@ -8,6 +8,15 @@ permalink: /about/
 
 # 關於 Yuna Shares
 
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:1.5rem;margin:1.5rem 0 2rem 0;">
+  <img src="{{ '/assets/images/yuna-avatar.jpg' | relative_url }}" alt="Yuna" style="width:128px;height:128px;border-radius:50%;object-fit:cover;flex-shrink:0;" loading="lazy" />
+  <div>
+    <p style="margin:0;"><strong>姓名：</strong>Yuna</p>
+    <p style="margin:0;"><strong>國籍：</strong>Taiwan 🇹🇼</p>
+    <p style="margin:0;"><strong>網站：</strong><a href="https://yunashares.blog">yunashares.blog</a></p>
+  </div>
+</div>
+
 嗨，我是 Yuna！歡迎來到我的旅遊分享天地。
 
 我是一位熱愛旅行的媽媽，特別擅長規劃親子旅遊行程。從日本、韓國到東南亞，帶著孩子探索世界是我最大的樂趣。
