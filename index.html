@@ -3,6 +3,21 @@ layout: default
 title: 首頁
 ---
 
+{% if paginator.page == 1 %}
+<section class="home-hero">
+  <img src="{{ '/assets/images/yuna-avatar.jpg' | relative_url }}" alt="Yuna" class="home-hero-avatar" loading="lazy" />
+  <div class="home-hero-text">
+    <h1 class="home-hero-name">Hi, 我是 Yuna 👋</h1>
+    <p class="home-hero-tagline">旅遊 × 親子 × 購物</p>
+    <p class="home-hero-desc">分享親子旅遊、飯店評價、KKday 折扣碼、蝦皮好物與海外網購攻略，幫你用最划算的價格買到最值得的東西。</p>
+    <div class="home-hero-ctas">
+      <a href="https://www.threads.com/@yunabb1025" target="_blank" rel="noopener noreferrer" class="home-hero-btn home-hero-btn-threads">＠ 追蹤 Threads</a>
+      <a href="{{ '/about' | relative_url }}" class="home-hero-btn home-hero-btn-about">關於我</a>
+    </div>
+  </div>
+</section>
+{% endif %}
+
 <div class="post-list">
   {% for post in paginator.posts %}
   <article class="post-card">

@@ -233,6 +233,104 @@ img {
   max-width: 100%;
 }
 
+/* ===== Home Hero (Profile Banner) ===== */
+.home-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem;
+  background: linear-gradient(135deg, #fff5f0 0%, #ffe8df 100%);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 1.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.home-hero-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  flex-shrink: 0;
+}
+
+.home-hero-text {
+  flex: 1;
+  min-width: 240px;
+}
+
+.home-hero-name {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 0.25rem;
+  color: var(--color-text);
+}
+
+.home-hero-tagline {
+  font-size: 1rem;
+  color: var(--color-accent);
+  font-weight: 500;
+  margin: 0 0 0.75rem;
+}
+
+.home-hero-desc {
+  font-size: 0.95rem;
+  color: var(--color-text-light);
+  line-height: 1.7;
+  margin: 0 0 1rem;
+}
+
+.home-hero-ctas {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.home-hero-btn {
+  display: inline-block;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.home-hero-btn:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+.home-hero-btn-threads {
+  background: #000;
+  color: #fff;
+}
+
+.home-hero-btn-threads:hover {
+  color: #fff;
+}
+
+.home-hero-btn-about {
+  background: #fff;
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+}
+
+@media (max-width: 600px) {
+  .home-hero {
+    text-align: center;
+    flex-direction: column;
+  }
+  .home-hero-text {
+    min-width: 0;
+  }
+  .home-hero-ctas {
+    justify-content: center;
+  }
+}
+
 /* ===== Post Cards (Homepage) ===== */
 .post-list {
   display: grid;
