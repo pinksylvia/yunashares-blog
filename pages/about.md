@@ -14,7 +14,7 @@ permalink: /about/
     <p style="margin:0;"><strong>姓名：</strong>Yuna</p>
     <p style="margin:0;"><strong>國籍：</strong>Taiwan 🇹🇼</p>
     <p style="margin:0;"><strong>網站：</strong><a href="https://yunashares.blog">yunashares.blog</a></p>
-    <p style="margin:0.5rem 0 0 0;"><a href="https://lin.ee/w0pjt4H"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png" alt="加入領蝦皮酷澎優惠" style="height:36px;width:auto;" border="0"></a></p>
+    <a href="https://lin.ee/w0pjt4H" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#06C755;color:#fff;padding:8px 20px;border-radius:6px;font-size:0.85rem;font-weight:600;text-decoration:none;margin-top:0.5rem;">LINE 加入好友</a>
   </div>
 </div>
 
