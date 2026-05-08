@@ -75,9 +75,21 @@ img {
 }
 
 .site-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--color-text);
+  text-decoration: none;
+}
+
+.site-logo-img {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
 }
 
 .site-logo:hover {

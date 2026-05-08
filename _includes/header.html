@@ -1,6 +1,9 @@
 <header class="site-header">
   <div class="container">
-    <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.title }}</a>
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <img src="{{ '/assets/images/apple-touch-icon.png' | relative_url }}" alt="{{ site.title }}" class="site-logo-img">
+      <span>{{ site.title }}</span>
+    </a>
     <nav class="site-nav">
       <button class="nav-toggle" aria-label="選單" aria-expanded="false">
         <span class="hamburger"></span>
