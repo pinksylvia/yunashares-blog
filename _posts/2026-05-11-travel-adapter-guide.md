@@ -67,6 +67,10 @@ redirect_from:
 
 **適合：** 需要一次幫全家充電、或攜帶多台裝置的旅遊族
 
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://s.shopee.tw/1780i5eQ0"><img src="{{ '/assets/images/plug/plug-lingxiang.jpg' | relative_url }}" alt="聆翔 多國旅行排插" style="max-width:100%;border-radius:8px;"></a>
+</div>
+
 <div style="text-align:center;margin:2rem 0;">
 <a href="https://s.shopee.tw/1780i5eQ0" style="display:inline-block;background:#ee4d2d;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🛒 聆翔旅行排插｜蝦皮看價格</a>
 </div>
@@ -82,6 +86,10 @@ BeaSaf 這款走的是**便攜收納路線**，整體設計很俐落，旅行延
 支援歐洲、韓國等歐規市場，對常跑韓國、歐洲的人來說非常實用。
 
 **適合：** 行李精簡、要求輕量出行的旅人
+
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://s.shopee.tw/BQYD15153"><img src="{{ '/assets/images/plug/plug-beasaf.jpg' | relative_url }}" alt="BeaSaf 歐規旅行插座" style="max-width:100%;border-radius:8px;"></a>
+</div>
 
 <div style="text-align:center;margin:2rem 0;">
 <a href="https://s.shopee.tw/BQYD15153" style="display:inline-block;background:#ee4d2d;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🛒 BeaSaf 旅行插座｜蝦皮看價格</a>
@@ -99,6 +107,10 @@ DTAudio 這款的最大亮點是 **2500W 的高功率耐受**，代表你帶吹�
 
 **適合：** 需要帶吹風機/電捲棒出國、或對安全規格要求高的旅人
 
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://s.shopee.tw/LjyPK4Nk6"><img src="{{ '/assets/images/plug/plug-dtaudio.jpg' | relative_url }}" alt="DTAudio 多國旅行轉接頭" style="max-width:100%;border-radius:8px;"></a>
+</div>
+
 <div style="text-align:center;margin:2rem 0;">
 <a href="https://s.shopee.tw/LjyPK4Nk6" style="display:inline-block;background:#ee4d2d;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🛒 DTAudio 萬用轉接頭｜蝦皮看價格</a>
 </div>
@@ -114,6 +126,10 @@ DTAudio 這款的最大亮點是 **2500W 的高功率耐受**，代表你帶吹�
 如果你是**固定去韓國或東南亞**，不需要英規澳規，這款 CP 值很高。
 
 **適合：** 主要去韓國、東南亞、歐洲，需要便宜耐用選項的旅人
+
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://s.shopee.tw/W3Obd3kP9"><img src="{{ '/assets/images/plug/plug-hippo.jpg' | relative_url }}" alt="河馬優選 韓國旅行轉接插頭" style="max-width:100%;border-radius:8px;"></a>
+</div>
 
 <div style="text-align:center;margin:2rem 0;">
 <a href="https://s.shopee.tw/W3Obd3kP9" style="display:inline-block;background:#ee4d2d;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🛒 河馬優選 韓國轉接頭｜蝦皮看價格</a>
@@ -132,28 +148,28 @@ DTAudio 這款的最大亮點是 **2500W 的高功率耐受**，代表你帶吹�
   <th>最適合</th>
 </tr>
 <tr>
-  <td><strong>聆翔 旅行排插</strong></td>
+  <td><a href="https://s.shopee.tw/1780i5eQ0"><strong>聆翔 旅行排插</strong></a></td>
   <td>排插＋延長線</td>
   <td>韓/港/泰/越/歐洲</td>
   <td>磷青銅穩定接觸、多孔同時充電</td>
   <td>多人出遊、多裝置</td>
 </tr>
 <tr>
-  <td><strong>BeaSaf 收納延長線</strong></td>
+  <td><a href="https://s.shopee.tw/BQYD15153"><strong>BeaSaf 收納延長線</strong></a></td>
   <td>收納延長線</td>
   <td>歐洲/韓國</td>
   <td>內建 USB Type-C、收納設計輕巧</td>
   <td>輕旅行、USB-C 用戶</td>
 </tr>
 <tr>
-  <td><strong>DTAudio 萬用插頭</strong></td>
+  <td><a href="https://s.shopee.tw/LjyPK4Nk6"><strong>DTAudio 萬用插頭</strong></a></td>
   <td>轉接頭</td>
   <td>韓/歐規/英規/澳規</td>
   <td>2500W 高功率、阻燃材質安全</td>
   <td>帶吹風機／高功率電器</td>
 </tr>
 <tr>
-  <td><strong>河馬優選 轉接插頭</strong></td>
+  <td><a href="https://s.shopee.tw/W3Obd3kP9"><strong>河馬優選 轉接插頭</strong></a></td>
   <td>轉接頭</td>
   <td>韓/德/法/荷/峇里島/印尼</td>
   <td>4.8mm 歐規精準接觸、CP 值高</td>
