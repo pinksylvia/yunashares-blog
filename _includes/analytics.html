@@ -63,6 +63,19 @@
           });
         }
       }
+
+      // Agoda 專用轉換事件（需含 cid 才觸發）
+      if (network === 'agoda') {
+        var cid = getCid(href);
+        if (cid) {
+          gtag('event', 'agoda_affiliate_click', {
+            agoda_cid: cid,
+            link_url: href,
+            link_text: linkText,
+            page_path: location.pathname
+          });
+        }
+      }
     }, { capture: true });
   })();
 </script>
