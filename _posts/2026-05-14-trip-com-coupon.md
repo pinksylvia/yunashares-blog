@@ -18,6 +18,10 @@ last_updated: "2026/05/14"
 <a href="https://tw.trip.com/pages/appdownload/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">✈️ 下載 App 領新人禮包 NT$264</a>
 </div>
 
+<div style="text-align:center;margin:1.5rem 0;">
+<iframe border="0" src="https://tw.trip.com/partners/ad/SB6938563?Allianceid=7338234&SID=275588888&trip_sub1=" style="width:468px;height:60px;max-width:100%;border:none;" frameborder="0" scrolling="no"></iframe>
+</div>
+
 ## 目錄
 
 1. [本月限時活動（快到期！）](#本月限時活動)
@@ -95,6 +99,10 @@ last_updated: "2026/05/14"
 </div>
 
 ---
+
+<div style="text-align:center;margin:2rem 0;">
+<iframe border="0" src="https://tw.trip.com/partners/ad/S6942287?Allianceid=7338234&SID=275588888&trip_sub1=" style="width:320px;height:320px;border:none;" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ## 銀行專屬優惠碼
 
