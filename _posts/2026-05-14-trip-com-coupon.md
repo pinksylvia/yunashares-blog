@@ -82,10 +82,10 @@ last_updated: "2026/05/14"
 
 <table><tbody>
 <tr><th>優惠碼</th><th>適用範圍</th><th>折扣內容</th><th>有效期</th></tr>
-<tr><td><strong>TRIPCAR8</strong></td><td>租車（新用戶）</td><td>首次租車最高 8% 折扣</td><td>送完為止</td></tr>
-<tr><td><strong>TWHOT5</strong></td><td>台灣景點票券</td><td>全台灣景點票 95 折</td><td>送完為止</td></tr>
-<tr><td>App 新戶</td><td>飯店（App 訂房）</td><td>首次訂房 10%，最高折 USD 10</td><td>2026/12/31</td></tr>
-<tr><td>App 內領取</td><td>大陸高鐵（新用戶）</td><td>3% 折扣</td><td>2026/12/31</td></tr>
+<tr><td><a href="https://tw.trip.com/cars/?Allianceid=7338234&SID=275588888" target="_blank"><strong>TRIPCAR8</strong></a></td><td>租車（新用戶）</td><td>首次租車最高 8% 折扣</td><td>送完為止</td></tr>
+<tr><td><a href="https://tw.trip.com/things-to-do/?Allianceid=7338234&SID=275588888" target="_blank"><strong>TWHOT5</strong></a></td><td>台灣景點票券</td><td>全台灣景點票 95 折</td><td>送完為止</td></tr>
+<tr><td><a href="https://tw.trip.com/pages/appdownload/?Allianceid=7338234&SID=275588888" target="_blank">App 新戶</a></td><td>飯店（App 訂房）</td><td>首次訂房 10%，最高折 USD 10</td><td>2026/12/31</td></tr>
+<tr><td><a href="https://tw.trip.com/pages/appdownload/?Allianceid=7338234&SID=275588888" target="_blank">App 內領取</a></td><td>大陸高鐵（新用戶）</td><td>3% 折扣</td><td>2026/12/31</td></tr>
 </tbody></table>
 
 **使用方式**：進入 Trip.com App 或網站，結帳時在「優惠碼」欄輸入代碼即可套用。優惠碼可能有「送完為止」限制，越早用越保險。
@@ -104,17 +104,17 @@ last_updated: "2026/05/14"
 
 <table><tbody>
 <tr><th>銀行</th><th>機票優惠碼</th><th>機票折扣</th><th>飯店優惠碼</th><th>飯店折扣</th></tr>
-<tr><td>國泰世華</td><td>CUB26F</td><td>折 NT$400</td><td>CUB26H</td><td>7% off</td></tr>
-<tr><td>台新銀行</td><td>TSB26F / TSRICHART26F</td><td>折 NT$400 / 折 NT$1,000</td><td>TSB26H</td><td>依活動</td></tr>
-<tr><td>中信銀行</td><td>CTBC26F</td><td>依活動</td><td>CTBC26H</td><td>依活動</td></tr>
-<tr><td>玉山銀行</td><td>ESUN26F / ESUNUNICARD26F</td><td>依活動 / 折 NT$1,000</td><td>ESUN26H</td><td>依活動</td></tr>
-<tr><td>滙豐銀行</td><td>HSBCTW26F</td><td>依活動</td><td>HSBCTW26H</td><td>依活動</td></tr>
-<tr><td>樂天銀行</td><td>RAKUTENTW26F</td><td>依活動</td><td>RAKUTENTW26H</td><td>依活動</td></tr>
-<tr><td>彰化銀行</td><td>CHB26F</td><td>依活動</td><td>CHB26H</td><td>依活動</td></tr>
-<tr><td>兆豐銀行</td><td>MEGA26F</td><td>依活動</td><td>MEGA26H</td><td>依活動</td></tr>
-<tr><td>富邦銀行</td><td>FUBON26F</td><td>依活動</td><td>FUBON26H</td><td>依活動</td></tr>
-<tr><td>遠東銀行</td><td>FEIB26F</td><td>依活動</td><td>FEIB26H</td><td>依活動</td></tr>
-<tr><td>星展銀行</td><td>DBSTW26F</td><td>依活動</td><td>DBSTW26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">國泰世華</a></td><td>CUB26F</td><td>折 NT$400</td><td>CUB26H</td><td>7% off</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">台新銀行</a></td><td>TSB26F / TSRICHART26F</td><td>折 NT$400 / 折 NT$1,000</td><td>TSB26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">中信銀行</a></td><td>CTBC26F</td><td>依活動</td><td>CTBC26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">玉山銀行</a></td><td>ESUN26F / ESUNUNICARD26F</td><td>依活動 / 折 NT$1,000</td><td>ESUN26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">滙豐銀行</a></td><td>HSBCTW26F</td><td>依活動</td><td>HSBCTW26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">樂天銀行</a></td><td>RAKUTENTW26F</td><td>依活動</td><td>RAKUTENTW26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">彰化銀行</a></td><td>CHB26F</td><td>依活動</td><td>CHB26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">兆豐銀行</a></td><td>MEGA26F</td><td>依活動</td><td>MEGA26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">富邦銀行</a></td><td>FUBON26F</td><td>依活動</td><td>FUBON26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">遠東銀行</a></td><td>FEIB26F</td><td>依活動</td><td>FEIB26H</td><td>依活動</td></tr>
+<tr><td><a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank">星展銀行</a></td><td>DBSTW26F</td><td>依活動</td><td>DBSTW26H</td><td>依活動</td></tr>
 </tbody></table>
 
 **台新 RICHART 卡**和**玉山聯名卡**的機票碼最划算，可以直接折 NT$1,000，如果常搭機很值得辦一張！
@@ -199,14 +199,14 @@ Trip.com 支援多種信用卡付款，**選對卡可以在平台折扣之外再
 
 <table><tbody>
 <tr><th>信用卡</th><th>Trip.com 回饋率</th><th>備註</th></tr>
-<tr><td>星展 eco 卡</td><td>最高 15%</td><td>網購類全回饋，條件請查各期活動</td></tr>
-<tr><td>玫瑰 Giving 卡</td><td>最高 11%</td><td>海外消費/旅遊類</td></tr>
-<tr><td>台新 FlyGo 卡</td><td>最高 8%</td><td>機票/旅遊回饋強</td></tr>
-<tr><td>玉山熊本熊卡</td><td>最高 8.5%</td><td>網購/海外消費</td></tr>
-<tr><td>永豐幣倍卡</td><td>最高 7%</td><td>指定網購平台</td></tr>
-<tr><td>聯邦幸福M卡</td><td>最高 6%</td><td>網購回饋</td></tr>
-<tr><td>聯邦吉鶴卡</td><td>最高 4.5%</td><td>海外消費</td></tr>
-<tr><td>國泰 CUBE 卡</td><td>最高 3%</td><td>彈性選擇回饋類別</td></tr>
+<tr><td><a href="https://www.dbs.com.tw/personal-zh/deposits/cards/eco.page" target="_blank" rel="noopener">星展 eco 卡</a></td><td>最高 15%</td><td>網購類全回饋，條件請查各期活動</td></tr>
+<tr><td><a href="https://www.taishinbank.com.tw/TSB/personal/creditcard/introduce/rose/" target="_blank" rel="noopener">玫瑰 Giving 卡</a></td><td>最高 11%</td><td>海外消費/旅遊類</td></tr>
+<tr><td><a href="https://www.taishinbank.com.tw/TSB/personal/creditcard/introduce/flygo/" target="_blank" rel="noopener">台新 FlyGo 卡</a></td><td>最高 8%</td><td>機票/旅遊回饋強</td></tr>
+<tr><td><a href="https://www.esunbank.com.tw/bank/personal/cards/credit-card" target="_blank" rel="noopener">玉山熊本熊卡</a></td><td>最高 8.5%</td><td>網購/海外消費</td></tr>
+<tr><td><a href="https://card.banksinopac.com.tw/" target="_blank" rel="noopener">永豐幣倍卡</a></td><td>最高 7%</td><td>指定網購平台</td></tr>
+<tr><td><a href="https://www.ubot.com.tw/personal/creditcard" target="_blank" rel="noopener">聯邦幸福M卡</a></td><td>最高 6%</td><td>網購回饋</td></tr>
+<tr><td><a href="https://www.ubot.com.tw/personal/creditcard" target="_blank" rel="noopener">聯邦吉鶴卡</a></td><td>最高 4.5%</td><td>海外消費</td></tr>
+<tr><td><a href="https://www.cathaybk.com.tw/cathaybk/personal/card/credit-card/cube-card/" target="_blank" rel="noopener">國泰 CUBE 卡</a></td><td>最高 3%</td><td>彈性選擇回饋類別</td></tr>
 </tbody></table>
 
 > **省錢組合建議**：用**銀行優惠碼**（折現金）＋**高回饋信用卡**付款，可以達到「先折後再回饋」的雙重效果，機票或高額飯店最明顯！
@@ -219,14 +219,14 @@ Trip Coins 是 Trip.com 的點數系統，**可折抵現金使用**（**100 Coin
 
 | 方式 | 回饋 Coins |
 |------|-----------|
-| 訂機票（每消費 USD$100）| 25 Coins |
-| 訂飯店（每消費 USD$100）| 80 Coins |
-| App 下單（額外加碼）| 再 +30% |
-| 撰寫飯店評論 | 最高 120 Coins |
-| Trip Moments 旅遊日記 | 每日最高 515 Coins |
-| 撰寫景點評論 | 最高 200 Coins |
-| 完成機票旅展訂單 | 最高 1,000 Coins |
-| 完成飯店旅展訂單 | 額外 500 Coins |
+| [訂機票（每消費 USD$100）](https://tw.trip.com/sale/w/4823/flight-deals.html?Allianceid=7338234&SID=275588888) | 25 Coins |
+| [訂飯店（每消費 USD$100）](https://tw.trip.com/sale/w/40797/tte-hotel.html?Allianceid=7338234&SID=275588888) | 80 Coins |
+| [App 下單（額外加碼）](https://tw.trip.com/pages/appdownload/?Allianceid=7338234&SID=275588888) | 再 +30% |
+| [撰寫飯店評論](https://tw.trip.com/hotels/?Allianceid=7338234&SID=275588888) | 最高 120 Coins |
+| [Trip Moments 旅遊日記](https://tw.trip.com/pages/appdownload/?Allianceid=7338234&SID=275588888) | 每日最高 515 Coins |
+| [撰寫景點評論](https://tw.trip.com/things-to-do/?Allianceid=7338234&SID=275588888) | 最高 200 Coins |
+| [完成機票旅展訂單](https://tw.trip.com/sale/w/4823/flight-deals.html?Allianceid=7338234&SID=275588888) | 最高 1,000 Coins |
+| [完成飯店旅展訂單](https://tw.trip.com/sale/w/40797/tte-hotel.html?Allianceid=7338234&SID=275588888) | 額外 500 Coins |
 
 **好友邀請賺 Coins 超快**：推薦好友加入，好友完成首筆訂單後你可獲得 **NT$300 獎勵**，每月最高累積 **NT$3,000 Trip Coins**！
 
