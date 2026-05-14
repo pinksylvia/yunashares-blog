@@ -12,8 +12,10 @@ last_updated: "2026/05/14"
 
 這篇幫大家把 **2026 年 5 月最新的所有優惠管道整理好**，不管你要訂機票、飯店、租車還是買景點票，對照著用就好！有些優惠碼快到期，建議先收藏這篇再慢慢看。
 
+> **新會員限定**：下載 Trip.com App 並成功註冊，可獲得 **價值 NT$264 新人禮包**，包含飯店最多 85 折、租車及機場接駁折扣高達 12%。新手從這裡入手最划算！
+
 <div style="text-align:center;margin:2rem 0;">
-<a href="https://tw.trip.com/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">✈️ 前往 Trip.com 搶優惠</a>
+<a href="https://tw.trip.com/pages/appdownload/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">✈️ 下載 App 領新人禮包 NT$264</a>
 </div>
 
 ## 目錄
@@ -37,7 +39,7 @@ last_updated: "2026/05/14"
 完成一筆機票訂單，最高可獲得 **1,000 Trip Coins 回饋**；兩人同行更有額外現折 NT$399 優惠。最近在規劃出遊的話，這波旅展很值得搭配使用。
 
 <div style="text-align:center;margin:1.5rem 0;">
-<a href="https://tw.trip.com/flights/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">✈️ 搶機票旅展優惠</a>
+<a href="https://tw.trip.com/sale/w/4823/flight-deals.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">✈️ 搶機票旅展優惠</a>
 </div>
 
 ### 🏨 飯店旅展（至 5/18）
@@ -45,24 +47,32 @@ last_updated: "2026/05/14"
 台灣、香港、日本、韓國精選飯店 NT$999 起，搭配折扣碼最高現折 **NT$1,000**（訂單滿額）或 **NT$300**；完成訂單再送 **500 Trip Coins**。這個到 5/18 就結束了，快去看看有沒有合適的房！
 
 <div style="text-align:center;margin:1.5rem 0;">
-<a href="https://tw.trip.com/hotels/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🏨 搶飯店旅展優惠</a>
+<a href="https://tw.trip.com/sale/w/40797/tte-hotel.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🏨 搶飯店旅展優惠</a>
 </div>
 
-### ✈️ 德威航空 86 折 × 星宇航空 88 折（至 5/17）
+### ✈️ 德威 × 星宇 × 多家航空限時折扣（至 5/17）
 
-德威航空限時 **86 折**、星宇航空 **88 折**，兩家都在這兩天到期，這週要飛的朋友記得去搶！
+德威航空限時 **86 折**、星宇航空 **88 折**，另有**紐西蘭航空 82 折**、**亞航 9 折**、**日本航空直飛東京免 NT$12,000** 等多家航空聯合促銷，這週要飛的朋友記得去搶！
 
 <div style="text-align:center;margin:1.5rem 0;">
-<a href="https://tw.trip.com/flights/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">✈️ 查看航空折扣</a>
+<a href="https://tw.trip.com/sale/w/14877/tw-airline-promotion.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">✈️ 查看全部航空折扣</a>
 </div>
 
 ### 🎋 端午節飯店 7 折起（至 5/31）
 
 端午假期飯店早早訂早早省，現在下單有機會拿到 **7 折起**的價格，適合規劃端午連假出遊的家庭。
 
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://tw.trip.com/sale/w/4823/seasonal-promotion.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🎋 搶端午假期飯店折扣</a>
+</div>
+
 ### 💳 街口支付週二最高折 NT$1,000（至 5/31）
 
 每週二使用**街口支付**結帳，可享最高 NT$1,000 或 NT$400 現折（視訂單金額與類型）。習慣用街口的朋友，記得選週二下單！
+
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://tw.trip.com/sale/w/28793/jko-pay.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">💳 街口支付週二折扣專頁</a>
+</div>
 
 ---
 
@@ -81,7 +91,7 @@ last_updated: "2026/05/14"
 **使用方式**：進入 Trip.com App 或網站，結帳時在「優惠碼」欄輸入代碼即可套用。優惠碼可能有「送完為止」限制，越早用越保險。
 
 <div style="text-align:center;margin:2rem 0;">
-<a href="https://tw.trip.com/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🎟️ 去 Trip.com 輸入優惠碼</a>
+<a href="https://tw.trip.com/sale/w/4795/promo-code.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🎟️ 前往 Trip.com 優惠碼專頁</a>
 </div>
 
 ---
@@ -122,27 +132,47 @@ last_updated: "2026/05/14"
 - **日本旅遊優惠**：限時促銷持續更新（至 12/31）
 
 <div style="text-align:center;margin:1.5rem 0;">
-<a href="https://tw.trip.com/hotels/list/?city=destination&Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🗾 查看日本飯店優惠</a>
+<a href="https://tw.trip.com/sale/w/4217/japan-travel.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🗾 查看日本旅遊優惠</a>
 </div>
+
+> **沖繩專頁**：[沖繩優惠專頁](https://tw.trip.com/sale/w/17859/okinawapromotion.html?Allianceid=7338234&SID=275588888) 有機+酒套裝，家庭出遊可以一次搞定！
 
 ### 🇰🇷 韓國旅遊
 
 - **LINE Bank**：每週三訂日韓泰機票享 15% 折扣（至 9/30）
-- **釜山機票**：Visa 卡友 NT$999 起（至 12/31）
+- **釜山機票**：NT$999 起超低價（Visa 卡友享更多優惠）
 - **韓國來回機票**：NT$4,500 起促銷（至 12/31）
+
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://tw.trip.com/sale/w/4337/southkorea-destination.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🇰🇷 查看韓國旅遊優惠</a>
+</div>
+
+> **釜山專頁**：[釜山優惠專頁](https://tw.trip.com/sale/w/31376/superbusan-promotion.html?Allianceid=7338234&SID=275588888) 有機票 + 飯店套裝精選！
 
 ### 🇹🇭 泰國旅遊
 
 - **LINE Bank**：每週三日韓泰機票 15% off（至 9/30）
 - **泰國機場接駁**：8 折優惠，最高折 NT$140（至 12/31）
 
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://tw.trip.com/sale/w/26497/go-thailand.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🇹🇭 查看泰國旅遊優惠</a>
+</div>
+
+### 🇨🇳 大陸旅遊
+
+- 大陸飯店、機票、火車票整合優惠，一站搞定（至 12/31）
+
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://tw.trip.com/sale/w/19280/gochina.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🇨🇳 查看大陸旅遊優惠</a>
+</div>
+
 ### 🎡 景點門票
 
-- **景點買1送1**：每週五限時活動，持續進行中
+- **景點買1送1**：每週五限時活動，精選如豪華版關西樂享周遊券、遠雄海洋公園等，持續進行中
 - **TWHOT5**：台灣景點票券 95 折優惠碼，隨時可用
 
 <div style="text-align:center;margin:1.5rem 0;">
-<a href="https://tw.trip.com/things-to-do/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🎟️ 逛景點票券優惠</a>
+<a href="https://tw.trip.com/sale/w/15871/happyfriday.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🎟️ 週五景點買1送1專頁</a>
 </div>
 
 ### 🚗 租車 & 機場接送
@@ -150,10 +180,16 @@ last_updated: "2026/05/14"
 - **新戶首次租車**：優惠碼 **TRIPCAR8** 最高 8% off
 - **機場接送新戶**：App 限定最高 **85 折**（新用戶限定）
 
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://tw.trip.com/airport-transfers/index?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🚖 預訂機場接送</a>
+</div>
+
 ### 🏨 其他飯店優惠
 
-- **Visa 月底大放送**：每月 25–30 日最高折 NT$2,000（至 9/30）
-- **新開幕飯店**：全球新開幕物件最高 20% 折扣（至 12/31）
+- **Visa 月底大放送**：每月 25–30 日最高折 NT$2,000（至 9/30）→ [Visa 優惠專頁](https://tw.trip.com/sale/w/21051/visapromotion.html?Allianceid=7338234&SID=275588888)
+- **LINE Bank**：週三訂機票 15% off → [LINE Bank 優惠專頁](https://tw.trip.com/sale/w/18090/linebankpromotion.html?Allianceid=7338234&SID=275588888)
+- **新開幕飯店**：全球新開幕物件最高 20% 折扣（至 12/31）→ [新開幕飯店專頁](https://tw.trip.com/sale/w/21947/super-new-opening-hotels.html?Allianceid=7338234&SID=275588888)
+- **晚鳥訂房**：出發前幾天才決定？晚鳥特惠不定時釋出 → [晚鳥訂房專頁](https://tw.trip.com/sale/w/2180/tw-last-minute.html?Allianceid=7338234&SID=275588888)
 
 ---
 
@@ -179,15 +215,26 @@ Trip.com 支援多種信用卡付款，**選對卡可以在平台折扣之外再
 
 ## Trip Coins 攻略
 
-Trip Coins 是 Trip.com 的點數系統，**可折抵現金使用**（通常 100 Coins ≈ NT$1）。以下幾個方式最好累積：
+Trip Coins 是 Trip.com 的點數系統，**可折抵現金使用**（**100 Coins ≈ USD$1**，換算匯率依網站公告為準）。以下幾個方式最好累積：
 
-1. **每月 5 日、25 日等活動日下單**：回饋 Coins 倍數最高，可達一般的 5–10 倍
-2. **完成飯店旅展訂單**：可領 500 Coins 加碼獎勵
-3. **機票旅展完成訂單**：最高 1,000 Coins
-4. **App 每日簽到**：少量但穩定累積
-5. **推薦好友**：好友首次下單你會拿到 Coins 回饋
+| 方式 | 回饋 Coins |
+|------|-----------|
+| 訂機票（每消費 USD$100）| 25 Coins |
+| 訂飯店（每消費 USD$100）| 80 Coins |
+| App 下單（額外加碼）| 再 +30% |
+| 撰寫飯店評論 | 最高 120 Coins |
+| Trip Moments 旅遊日記 | 每日最高 515 Coins |
+| 撰寫景點評論 | 最高 200 Coins |
+| 完成機票旅展訂單 | 最高 1,000 Coins |
+| 完成飯店旅展訂單 | 額外 500 Coins |
 
-累積到一定額度後，結帳頁面會出現「用 Trip Coins 折抵」的選項，直接抵掉部分金額超方便。
+**好友邀請賺 Coins 超快**：推薦好友加入，好友完成首筆訂單後你可獲得 **NT$300 獎勵**，每月最高累積 **NT$3,000 Trip Coins**！
+
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://tw.trip.com/sale/w/4283/friend-referral.html?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">👫 好友邀請活動專頁</a>
+</div>
+
+累積到一定額度後，結帳頁面會出現「用 Trip Coins 折抵」的選項，直接抵掉部分金額超方便。**用 App 下單的回饋多出 30%**，所以習慣在電腦查詢後，記得切換到 App 再確認下單！
 
 ---
 
@@ -222,7 +269,7 @@ Trip.com 的優惠真的很多，搞清楚自己的旅遊計畫後，**對應類
 我自己的使用習慣是：**先存好本篇的優惠碼清單**，等確定行程後對照表格找最適合的碼，結帳時再確認信用卡有沒有對應的回饋活動。一層一層疊下來，常常比直接下單便宜不少！
 
 <div style="text-align:center;margin:2rem 0;">
-<a href="https://tw.trip.com/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">✈️ 前往 Trip.com 開始訂購</a>
+<a href="https://tw.trip.com/pages/appdownload/?Allianceid=7338234&SID=275588888" target="_blank" style="display:inline-block;background:#1a7ddb;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">✈️ 下載 App 領新人禮包，開始訂購</a>
 </div>
 
 有任何 Trip.com 的使用問題，或是優惠碼失效的狀況，歡迎到[聯絡方式](/contact/)告訴我，我會持續更新這篇的優惠資訊！
