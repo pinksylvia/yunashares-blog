@@ -36,7 +36,7 @@ last_updated: "2026/05/20"
 
 這是 LINE 旅遊最大的亮點。透過平台連結到合作品牌完成訂購，就能依照該品牌的回饋率獲得 LINE POINTS。點數可以用來折抵 LINE Pay 消費、贈送朋友、購買 LINE 貼圖，用途很廣。
 
-以下是目前各合作品牌的回饋率：
+以下是目前各合作品牌的回饋率（資料來源：LINE 旅遊官網，實際回饋率以 [LINE 旅遊官方網站](https://line.soocker.tw/r/S6Q45g7vQ14G4Ezu5){:target="_blank" rel="sponsored noopener"} 公告為準，活動期間回饋率可能調整）：
 
 ### 📶 網路 & eSIM（回饋最高）
 
