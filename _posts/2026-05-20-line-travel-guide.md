@@ -161,5 +161,3 @@ LINE 旅遊是比價起點，但各平台本身也有折扣碼可以疊加使用
 <div style="text-align:center;margin:2rem 0;">
 <a href="https://line.soocker.tw/r/S6Q45g7vQ14G4Ezu5" target="_blank" rel="sponsored noopener" style="display:inline-block;background:#06C755;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">✈️ 前往 LINE 旅遊，開始賺點數</a>
 </div>
-
-> ⚠️ 本文部分連結為聯盟行銷連結，透過連結完成訂購，我可能獲得少許佣金，但不影響你的訂購價格，感謝支持！
