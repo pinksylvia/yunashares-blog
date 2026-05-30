@@ -14,7 +14,7 @@ redirect_from:
 
 > 🆕 **YUNA 讀者專屬碼，快存起來！**
 > - ✈️ **KKYUNA**｜機票滿 7,000 折 300，使用期限 ～5/31，出發日期 ～9/30
-> - 🎫 **YUNAJK100**｜日韓熱門票券及交通滿 2,000 折 100，使用期限 ～5/31，出發日期 ～12/31
+> - 🎫 **YUNAJK100**｜日韓熱門票券及交通滿 2,000 折 100，使用期限 ～6/30，出發日期 ～12/31
 
 ## KKday折扣碼優惠：2026年6月大檔與暑假優惠
 
@@ -65,7 +65,7 @@ redirect_from:
 ### 🎫 票券 / 上網卡
 
 <table><tbody>
-<tr><td>⭐ <strong>YUNAJK100</strong></td><td>🆕 YUNA 專屬｜日韓熱門票券及交通滿 2,000 折 100<br><small>使用期限 ～5/31 ｜ 出發日期 ～12/31</small></td></tr>
+<tr><td>⭐ <strong>YUNAJK100</strong></td><td>🆕 YUNA 專屬｜日韓熱門票券及交通滿 2,000 折 100<br><small>使用期限 ～6/30 ｜ 出發日期 ～12/31</small></td></tr>
 <tr><td>AFFKDDI85</td><td>KDDI 原生 eSIM 無限流量 85 折（上限折抵 100）<a href="https://www.kkday.com/zh-tw/product/243815?cid=23391&ud1=blogpost">👉🏻查看商品</a></td></tr>
 </tbody></table>
 
@@ -181,7 +181,7 @@ YUNA 和 KKday 合作，目前共有 **3 組**讀者專屬折扣碼，趕快全�
 <tr><th>折扣碼</th><th>優惠內容</th><th>使用期限</th><th>出發日期</th></tr>
 <tr><td><strong>KKYUNA94</strong></td><td>全站滿 1,500 享 94 折，上限折抵 200（每帳號 6 次）</td><td>長期</td><td>不限</td></tr>
 <tr><td><strong>KKYUNA</strong></td><td>✈️ 機票滿 7,000 折 300</td><td>～5/31</td><td>～9/30</td></tr>
-<tr><td><strong>YUNAJK100</strong></td><td>🎫 日韓熱門票券及交通滿 2,000 折 100</td><td>～5/31</td><td>～12/31</td></tr>
+<tr><td><strong>YUNAJK100</strong></td><td>🎫 日韓熱門票券及交通滿 2,000 折 100</td><td>～6/30</td><td>～12/31</td></tr>
 </tbody></table>
 
 [👉 KKday x YUNA 專屬入口，點這裡進入再結帳](https://www.kkday.com/zh-tw?cid=23391&ud1=blogpost)
