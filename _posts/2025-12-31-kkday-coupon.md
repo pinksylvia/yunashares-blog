@@ -29,12 +29,9 @@ redirect_from:
 
 ### 🏆 2. 百萬旅遊金抽獎（KOL 加碼）
 
-粉絲透過 YUNA 專屬連結下單滿 NT$5,000，就有機會抽中 **100 萬大獎**！
+透過 YUNA 專屬連結下單滿 NT$5,000，就有機會抽中 **100 萬大獎**！中獎的話 KKday 還會額外加碼 **5 萬旅遊金（KKPoints 350,000 點）**，等於獎上加獎！
 
-- **粉絲中獎**：KKday 額外加碼 5 萬（KKPoints 350,000 點）給他
-- **YUNA 本人**：每導出一筆 5,000 元訂單，抽獎機率就更高，中獎可拿 **10 萬（KKPoints 625,000 點）**
-
-讓身邊想出遊的親友都從 [KKday x YUNA 專屬入口](https://www.kkday.com/zh-tw?cid=23391&ud1=blogpost)下單，一起拼百萬旅遊金！
+讓身邊想出遊的親友也從 [KKday x YUNA 專屬入口](https://www.kkday.com/zh-tw?cid=23391&ud1=blogpost)下單，一起拼百萬旅遊金！
 
 <!-- KKday 熱門商品推薦 Widget -->
 <ins class="kkday-product-media" data-oid="5018" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
