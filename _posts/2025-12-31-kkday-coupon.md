@@ -5,7 +5,7 @@ date: 2025-12-31
 categories: [親子旅遊, 購物折扣]
 tags: [KKday, KKDAY折扣碼, 信用卡優惠, 旅遊優惠, 機票優惠, 票券優惠, 親子旅遊]
 description: "持續更新每月KKday最新折扣碼及信用卡優惠，YUNA讀者專屬獨家折扣碼KKYUNA94，每個帳號可使用6次，結帳前記得來這頁刷一下，找到隱藏版優惠！"
-last_updated: "2026/06/03"
+last_updated: "2026/06/04"
 redirect_from:
   - /親子旅遊/購物折扣/kkday-coupon/
 ---
@@ -15,7 +15,6 @@ redirect_from:
 > 🆕 **YUNA 讀者專屬碼，快存起來！**
 > - ✈️ **KKYUNA**｜機票滿 7,000 折 300，使用期限 ～5/31，出發日期 ～9/30
 > - 🎫 **YUNAJK**｜日韓熱門票券及交通滿 1,200 折 80，使用期限 ～6/9（限時！）
-> - 🎫 **YUNAJK100**｜日韓熱門票券及交通滿 2,000 折 100，使用期限 ～6/30，出發日期 ～12/31
 
 ## KKday折扣碼優惠：2026年6月大檔與暑假優惠
 
@@ -64,7 +63,6 @@ redirect_from:
 
 <table><tbody>
 <tr><td>⭐ <strong>YUNAJK</strong></td><td>🆕 YUNA 專屬｜日韓熱門票券及交通滿 1,200 折 80<br><small>⚠️ 使用期限 ～6/9（限時！）</small></td></tr>
-<tr><td>⭐ <strong>YUNAJK100</strong></td><td>🆕 YUNA 專屬｜日韓熱門票券及交通滿 2,000 折 100<br><small>使用期限 ～6/30 ｜ 出發日期 ～12/31</small></td></tr>
 <tr><td>AFFKDDI85</td><td>KDDI 原生 eSIM 無限流量 85 折（上限折抵 100）<a href="https://www.kkday.com/zh-tw/product/243815?cid=23391&ud1=blogpost">👉🏻查看商品</a></td></tr>
 </tbody></table>
 
