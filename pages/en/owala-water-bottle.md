@@ -129,7 +129,7 @@ If you're tired of forgetting to drink water, switching bottles between work and
 
 <p style="font-size:0.85rem;color:#777;text-align:center;">
   As an Amazon Associate I earn from qualifying purchases.<br>
-  <a href="/en/affiliate-disclosure/">Affiliate Disclosure</a> · <a href="/en/privacy/">Privacy Policy</a> · <a href="/en/contact/">Contact</a>
+  <a href="/en/affiliate-disclosure/">Affiliate Disclosure</a> · <a href="/privacy/">Privacy Policy</a> · <a href="/en/contact/">Contact</a>
 </p>
 
 </div>

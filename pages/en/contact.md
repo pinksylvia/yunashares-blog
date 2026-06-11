@@ -55,7 +55,7 @@ All sponsored or paid collaborations are **clearly disclosed** in the relevant p
 
 ## Related
 
-- [Privacy Policy](/en/privacy/)
+- [Privacy Policy](/privacy/)
 - [Affiliate Disclosure](/en/affiliate-disclosure/)
 - 中文：[聯絡方式](/contact/)
 
