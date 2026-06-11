@@ -10,7 +10,7 @@ permalink: /privacy/
 
 最後更新日期：2026 年 6 月
 
-感謝您造訪 Yuna Shares（yunashares.blog）。本隱私權政策旨在說明我們如何收集、使用、保護您的個人資訊，並維護您的隱私權益。
+感謝您造訪 Yuna Shares（yunashares.blog）。本網站由**悠享數位有限公司**（YS Digital Co., Ltd.）負責營運，並作為本政策所述個人資料之蒐集與處理主體。本隱私權政策旨在說明我們如何收集、使用、保護您的個人資訊，並維護您的隱私權益。
 
 ## 一、資訊收集與使用
 
@@ -58,6 +58,8 @@ permalink: /privacy/
 
 如果您對本隱私權政策、Cookie 使用或您的個人資料有任何疑問，歡迎隨時與我們聯繫：
 
+- **營運主體**：悠享數位有限公司 YS Digital Co., Ltd.
+- **公司地址**：新北市鶯歌區南雅路33巷6弄9號（1樓）
 - **官方網站**：yunashares.blog
 - **聯絡信箱**：yunabebe.kr@gmail.com
 
