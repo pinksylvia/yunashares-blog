@@ -5,7 +5,7 @@ date: 2025-12-31
 categories: [親子旅遊, 購物折扣]
 tags: [KKday, KKDAY折扣碼, 信用卡優惠, 旅遊優惠, 機票優惠, 票券優惠, 親子旅遊]
 description: "持續更新每月KKday最新折扣碼及信用卡優惠，YUNA讀者專屬獨家折扣碼KKYUNA94，每個帳號可使用6次，結帳前記得來這頁刷一下，找到隱藏版優惠！"
-last_updated: "2026/06/04"
+last_updated: "2026/06/15"
 redirect_from:
   - /親子旅遊/購物折扣/kkday-coupon/
 ---
@@ -14,7 +14,7 @@ redirect_from:
 
 > 🆕 **YUNA 讀者專屬碼，快存起來！**
 > - ✈️ **KKYUNA**｜機票滿 7,000 折 300，使用期限 ～6/30，出發日期 ～9/30
-> - 🎫 **YUNAJK**｜日韓熱門票券及交通滿 1,200 折 80，使用期限 ～6/9（限時！）
+> - 🎫 **YUNAJK100**｜日韓熱門票券及交通滿 2,000 折 100，使用期限 ～6/30，出發日期 ～12/31
 
 ## KKday折扣碼優惠：2026年6月大檔與暑假優惠
 
@@ -54,7 +54,6 @@ redirect_from:
 
 <table><tbody>
 <tr><td>KKAFFTOUR88</td><td>行程商品不限低消享 88 折（上限折抵 300）</td></tr>
-<tr><td><strong>KKAFFLH520</strong></td><td>🌞 暑假早鳥｜紐澳歐美行程（7–8 月出發）8 折，上限折抵 520（⚠️至 6/15）</td></tr>
 <tr><td><strong>KKCCCAR</strong></td><td>🌞 暑假早鳥｜全球包車（7–8 月出發）9 折，上限折抵 1,000（至 6/30）</td></tr>
 <tr><td>KKAFF1200</td><td>行程 / 包車滿 10,000 現折 1,200（至 6/30）</td></tr>
 </tbody></table>
@@ -62,7 +61,7 @@ redirect_from:
 ### 🎫 票券 / 上網卡
 
 <table><tbody>
-<tr><td>⭐ <strong>YUNAJK</strong></td><td>🆕 YUNA 專屬｜日韓熱門票券及交通滿 1,200 折 80<br><small>⚠️ 使用期限 ～6/9（限時！）</small></td></tr>
+<tr><td>⭐ <strong>YUNAJK100</strong></td><td>🆕 YUNA 專屬｜日韓熱門票券及交通滿 2,000 折 100<br><small>使用期限 ～6/30，出發日期 ～12/31</small></td></tr>
 <tr><td>AFFKDDI85</td><td>KDDI 原生 eSIM 無限流量 85 折（上限折抵 100）<a href="https://www.kkday.com/zh-tw/product/243815?cid=23391&ud1=blogpost">👉🏻查看商品</a></td></tr>
 </tbody></table>
 
@@ -86,9 +85,28 @@ redirect_from:
 
 - 【26FW250】澎湖花火節商品滿 3,000 折 250 [**👉🏻點我查看適用商品**](https://www.kkday.com/zh-tw/promo/penghu_fireworks?cid=23391&ud1=blogpost)
 
-### 🌞 暑假早鳥體驗（至 6/15）
+### 🎢 日本環球影城（USJ）特區
 
-- 【STR79】暑假早鳥日遊體驗｜滿 1,200 享 79 折，上限折抵 310
+暑假親子旅遊首選！以下三款 USJ 商品都超值，搭配全月折扣碼 **SUMMER600**（滿 6,000 折 600）使用更划算：
+
+<table><tbody>
+<tr>
+  <td><a href="https://www.kkday.com/zh-tw/product/600677?cid=23391" target="_blank" rel="sponsored noopener"><strong>買日本環球影城門票｜贈爆米花桶兌換券（價值 JPY 5,000）</strong></a></td>
+  <td>🍿 直接含兌換券，省去現場排隊購買時間。若購買商品超過券面額請於現場補差額；未滿面額恕不找零。</td>
+</tr>
+<tr>
+  <td><a href="https://www.kkday.com/zh-tw/product/600618?cid=23391" target="_blank" rel="sponsored noopener"><strong>日本環球影城門票贈 1,000 日圓美食購物券</strong></a></td>
+  <td>🎟️ 入場門票＋1,000 円餐飲購物券，進場就能馬上用，適合想在園內享用美食的旅客。</td>
+</tr>
+<tr>
+  <td><a href="https://www.kkday.com/zh-tw/product/528208?cid=23391" target="_blank" rel="sponsored noopener"><strong>豪華版關西樂享周遊券（可選 USJ 1 日券）</strong></a></td>
+  <td>🗾 關西景點大集合，可選配 USJ 1 日券，一張搞定大阪、京都、奈良多個景點，超適合排多天行程的家庭。結帳輸入【SUMMER600】滿 6,000 現折 600！</td>
+</tr>
+</tbody></table>
+
+<div style="text-align:center;margin:1.5rem 0;">
+<a href="https://www.kkday.com/zh-tw/product/600677?cid=23391" target="_blank" rel="sponsored noopener" style="display:inline-block;background:#e8735a;color:#fff;padding:12px 28px;border-radius:8px;font-size:1rem;font-weight:700;text-decoration:none;">🎢 查看 KKday 日本環球影城票券</a>
+</div>
 
 ### 🚆 日本交通與行程
 
