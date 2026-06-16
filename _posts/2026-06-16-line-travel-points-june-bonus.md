@@ -205,6 +205,149 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
   </div>
 
 </div><!-- end brand-cards -->
+
+### 🎫 Klook 主題樂園・票券加碼商品（單品連結，回饋更高）
+
+除了上面 Klook 一般分類回饋，LINE旅遊 x Klook 還有針對特定樂園、票券商品的「加碼回饋」活動，回饋％數比一般分類更高，且每個商品都有專屬導購連結，記得依日期點對的連結才能拿到當天的加碼％數。
+
+<div class="brand-cards">
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">豪華版關西樂享周遊券（含日本環球影城）</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/BbHqxGnZxWoTFK3G7" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">香港迪士尼樂園門票</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/ZQWtgoMWvEGpNpxu8" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16">
+    <div class="brand-rate">10%</div>
+    <div class="brand-body">
+      <div class="brand-name">東京teamLab Borderless數位藝術美術館門票</div>
+      <div class="brand-detail">僅 6/16 限定：10%（cap 250）</div>
+      <a href="https://line.soocker.tw/r/a9ph9N958Xu1ztXn8" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">東京迪士尼度假區（東京迪士尼樂園及東京迪士尼海洋）門票</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/MvskBKQjni9eU2Ad9" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">釜山通行證 VISIT BUSAN PASS</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/PVKddyL1mRuZYEZ67" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">大阪周遊卡 Osaka Amazing Pass</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/Zog17fSSVszuJRp87" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">沖繩FunPASS（美麗海水族館系列）</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/TdMAXsvP1XLzyYZJ6" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">加州迪士尼樂園門票</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/b7tjj5DtMNUCLjUV9" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">日本名古屋樂高樂園門票 Legoland Japan</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/hYR9Krw3gmucQdAA8" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">新加坡環球影城門票</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/x1BDqVysRCWQyKKu8" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">首爾樂天世界門票</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/hvwie2T3qzQHLEX66" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">東京哈利波特製片廠之旅</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/jzN48KNs5qobTNWn8" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">巴黎迪士尼門票</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/HfQBHudfAP6zT6JL6" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="16,23,30">
+    <div class="brand-rate">10–15%</div>
+    <div class="brand-body">
+      <div class="brand-name">加州好萊塢環球影城門票</div>
+      <div class="brand-detail">6/16：10%（cap 250）｜6/23、6/30：15%（cap 300）</div>
+      <a href="https://line.soocker.tw/r/F2E1Jd3yqKi2LWaw8" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+  <div class="brand-card klook" data-dates="20,21,27,28">
+    <div class="brand-rate">25%</div>
+    <div class="brand-body">
+      <div class="brand-name">上海迪士尼樂園門票</div>
+      <div class="brand-detail">6/20–6/21、6/27–6/28：25%（cap 600）</div>
+      <a href="https://line.soocker.tw/r/ZgyNhd8Kh49aLjAYA" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
+    </div>
+  </div>
+
+</div><!-- end brand-cards -->
 </div><!-- end lt-filter-page -->
 
 ---
