@@ -48,6 +48,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">Agoda</div>
       <div class="brand-detail">週二（6/16, 23, 30）／週三（6/17, 24）享 8% 回饋，上限折抵 1,000</div>
+      <a href="PLACEHOLDER_CTA_AGODA" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -56,6 +57,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">Booking.com</div>
       <div class="brand-detail">週四（6/18, 25）／週五（6/19, 26）享 8% 回饋，上限折抵 1,000</div>
+      <a href="PLACEHOLDER_CTA_BOOKING" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -64,6 +66,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">Hotels.com</div>
       <div class="brand-detail">週六（6/27）享 8%；週四（6/18, 25）享 7%，皆上限折抵 1,000</div>
+      <a href="PLACEHOLDER_CTA_HOTELSCOM" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -72,6 +75,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">Expedia</div>
       <div class="brand-detail">週六（6/27）／週日（6/21, 28）享 9.5% 回饋，上限折抵 1,000</div>
+      <a href="PLACEHOLDER_CTA_EXPEDIA" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -80,6 +84,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">Trip.com</div>
       <div class="brand-detail">機票：週四（6/18, 25）／週五（6/19, 26）享 2%。住宿：週六（6/20, 27）享 5%，上限折抵 1,000</div>
+      <a href="PLACEHOLDER_CTA_TRIPCOM" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -88,6 +93,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">AsiaYo</div>
       <div class="brand-detail">週四（6/18）享 4.5% 回饋</div>
+      <a href="PLACEHOLDER_CTA_ASIAYO" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -96,6 +102,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">GetYourGuide</div>
       <div class="brand-detail">活動至 6/16 止，享 13% 回饋，最後一天記得搶</div>
+      <a href="PLACEHOLDER_CTA_GETYOURGUIDE" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -104,6 +111,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">雄獅旅遊</div>
       <div class="brand-detail">國內自選自由行：6/22～6/28 享 8% 回饋</div>
+      <a href="PLACEHOLDER_CTA_LIONTRAVEL" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -112,6 +120,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">旅天下</div>
       <div class="brand-detail">週四（6/25）／週五（6/26）享 3% 回饋</div>
+      <a href="PLACEHOLDER_CTA_LIDOM" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -120,6 +129,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">gogoout</div>
       <div class="brand-detail">週五（6/19）享 5% 回饋</div>
+      <a href="PLACEHOLDER_CTA_GOGOOUT" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -128,6 +138,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">Global WiFi</div>
       <div class="brand-detail">6 月全月（～6/30）WiFi 租借享 18% 回饋，整月都可用</div>
+      <a href="PLACEHOLDER_CTA_GLOBALWIFI" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -136,6 +147,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">趣吧</div>
       <div class="brand-detail">團體行程：6/16～6/18、6/24～6/26 享 1.5% 回饋</div>
+      <a href="PLACEHOLDER_CTA_QUBE" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -149,6 +161,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
         租車首租 17.5%：週日（21, 28）<br>
         租車非首租 5%＋租車首租 17.5%：6/16、6/17、6/18
       </div>
+      <a href="PLACEHOLDER_CTA_LINEGO" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -157,6 +170,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
     <div class="brand-body">
       <div class="brand-name">六壹通路行銷</div>
       <div class="brand-detail">6/11～6/18｜住宿相關 10%、休閒娛樂 5%、餐券 2.5%</div>
+      <a href="PLACEHOLDER_CTA_LIUYI" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -170,6 +184,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
         <strong>週五</strong>：交通類 5%、SIM卡／WiFi 10%（cap 200）；20:00–23:59 樂園景點門票加碼 5%<br>
         <strong>週六、週日</strong>：郊區行程／一日多日遊／特色活動・溫泉SPA 9%（cap 200）
       </div>
+      <a href="PLACEHOLDER_CTA_KKDAY" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -185,6 +200,7 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
         <strong>週日</strong>：租車 10%（cap 200）；飯店 15%（cap 1000）；一日遊・景點門票・表演 5%（cap 200）<br>
         <strong>特定加碼</strong>：6/1～6/21 每日 17:30–23:59 飯店加碼至 18%（cap 1500）
       </div>
+      <a href="PLACEHOLDER_CTA_KLOOK" target="_blank" rel="sponsored noopener" class="brand-btn">查看優惠 →</a>
     </div>
   </div>
 
@@ -214,6 +230,8 @@ LINE旅遊每個月都會跟不同訂房、票券、交通品牌談加碼回饋�
 .brand-body { flex:1; padding:0.8rem 1rem; }
 .brand-name { font-weight:700; font-size:1rem; margin-bottom:0.3rem; }
 .brand-detail { font-size:0.85rem; color:#555; line-height:1.6; }
+.brand-btn { display:inline-block; margin-top:0.6rem; background:#06C755; color:#fff; padding:6px 16px; border-radius:6px; font-size:0.82rem; font-weight:700; text-decoration:none; }
+.brand-btn:hover { background:#059b44; }
 
 @media(max-width:500px){
   .dflt { font-size:0.72rem; padding:5px 7px; }
