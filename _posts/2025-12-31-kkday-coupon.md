@@ -12,6 +12,11 @@ redirect_from:
 
 你常常使用KKday來訂旅遊行程嗎？這裡會持續更新2026年每月KKday最新折扣碼及信用卡優惠，訂票前記得來刷一下，可能會找到一些隱藏版的優惠喔！YUNA有爭取到讀者專屬獨家折扣碼：**KKYUNA94**，每個帳號都可以使用6次，本頁面優惠碼需從[**KKday x YUNA專屬入口**](https://www.kkday.com/zh-tw?cid=23391&ud1=blogpost)點擊進入，才能正常領取使用！其他特別划算可以優先使用的，也都幫各位劃重點啦！
 
+<div style="text-align:center;margin:1.5rem 0;background:linear-gradient(135deg,#ff6b35,#f7c59f);border-radius:10px;padding:1rem;">
+<p style="margin:0 0 0.6rem;color:#fff;font-weight:700;font-size:1.05rem;">🎉 616–618 旅遊年中慶快閃特惠來了！日韓台多國商品最低 4 折、買一送一</p>
+<a href="/616-sale/" style="display:inline-block;background:#fff;color:#e8735a;padding:10px 24px;border-radius:6px;font-weight:700;text-decoration:none;">查看快閃特惠商品 →</a>
+</div>
+
 > 🆕 **YUNA 讀者專屬碼，快存起來！**
 > - ✈️ **KKYUNA**｜機票滿 7,000 折 300，使用期限 ～6/30，出發日期 ～9/30
 > - 🎫 **YUNAJK100**｜日韓熱門票券及交通滿 2,000 折 100，使用期限 ～6/30，出發日期 ～12/31

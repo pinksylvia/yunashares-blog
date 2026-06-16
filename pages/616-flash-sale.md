@@ -1,22 +1,16 @@
 ---
 layout: default
-title: "616–618 旅遊年中慶｜KKday & Klook 快閃特惠全整理"
+title: "616–618 旅遊年中慶｜KKday 快閃特惠全整理"
 permalink: /616-sale/
-description: "616 到 618 旅遊年中慶快閃優惠！KKday 最低 4 折、買一送一，Klook 最高 15% 回饋，日本、韓國、台灣、東南亞、港澳多國商品一頁看完，直接點連結搶購。"
+description: "616 到 618 旅遊年中慶快閃優惠！KKday 最低 4 折、買一送一，日本、韓國、台灣、東南亞、港澳多國商品一頁看完，直接點連結搶購。"
 ---
 
 <div class="sale-page" markdown="0">
 
 <div class="sale-hero">
   <h1>🎉 616–618 旅遊年中慶快閃特惠</h1>
-  <p>KKday 最低 4 折・買一送一 ／ Klook 最高 15% 現折回饋<br>
+  <p>KKday 最低 4 折・買一送一<br>
   依照國家篩選，找到你要的行程直接點連結搶購！</p>
-</div>
-
-<!-- 平台 Tab -->
-<div class="platform-tabs">
-  <button class="ptab active" onclick="switchPlatform('kkday', this)">🟠 KKday 快閃商品</button>
-  <button class="ptab" onclick="switchPlatform('klook', this)">🟢 Klook 快閃商品</button>
 </div>
 
 <!-- ========== KKday Section ========== -->
@@ -600,161 +594,6 @@ description: "616 到 618 旅遊年中慶快閃優惠！KKday 最低 4 折、買
   </div><!-- end kkday-cards -->
 </div><!-- end platform-kkday -->
 
-<!-- ========== Klook Section ========== -->
-<div id="platform-klook" class="platform-section" style="display:none;">
-
-  <div class="coupon-callout klook-callout">
-    <strong>💡 Klook 快閃特惠說明</strong>
-    <p style="margin:0.5rem 0 0;">以下商品依日期享有不同現折回饋，請在對應日期購買以確保享有優惠。<br>
-    <span style="font-size:0.85rem; color:#888;">⚠️ 實際回饋以 Klook 平台前台顯示為準</span></p>
-    <div style="margin-top:0.75rem; display:flex; flex-wrap:wrap; gap:0.5rem;">
-      <span class="klook-badge">6/16：10% 回饋，上限折抵 NT$250</span>
-      <span class="klook-badge">6/23：15% 回饋，上限折抵 NT$300</span>
-      <span class="klook-badge">6/30：15% 回饋，上限折抵 NT$300</span>
-      <span class="klook-badge special">上海迪士尼 6/20–21 & 6/27–28：25% 回饋，上限 NT$600</span>
-    </div>
-  </div>
-
-  <div class="cards-grid">
-
-    <div class="sale-card JP" data-region="JP">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">豪華版關西樂享周遊券（含日本環球影城 USJ）</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/168914?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card JP" data-region="JP">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">東京 teamLab Borderless 數位藝術美術館門票</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/20707?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card JP" data-region="JP">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">東京迪士尼度假區門票（東京迪士尼樂園・海洋）</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/695?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card JP" data-region="JP">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">大阪周遊卡 Osaka Amazing Pass</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/82312?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card JP" data-region="JP">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">沖繩 FunPASS（美麗海水族館系列）</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/157775?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card JP" data-region="JP">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">日本名古屋樂高樂園門票 Legoland Japan</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/44688?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card JP" data-region="JP">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">東京哈利波特製片廠之旅</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/84374?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card KR" data-region="KR">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">釜山通行證 VISIT BUSAN PASS</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/81576?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card KR" data-region="KR">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">首爾樂天世界門票</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/251?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card HKMOCN" data-region="HKMOCN">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">香港迪士尼樂園門票</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/39?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card HKMOCN" data-region="HKMOCN">
-      <div class="discount-badge klook-rate hot">25%<br>6/20-21 & 27-28</div>
-      <div class="card-body">
-        <div class="card-title">上海迪士尼樂園門票</div>
-        <div class="card-note">6/20–21 及 6/27–28 享 25% 回饋，上限折抵 600</div>
-        <a href="https://www.klook.com/zh-TW/activity/2128?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card SEA" data-region="SEA">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">新加坡環球影城門票</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/117?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card" data-region="LH">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">加州迪士尼樂園門票</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/4100?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card" data-region="LH">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">加州好萊塢環球影城門票</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/4099?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-    <div class="sale-card" data-region="LH">
-      <div class="discount-badge klook-rate">10→15%<br>回饋</div>
-      <div class="card-body">
-        <div class="card-title">巴黎迪士尼門票</div>
-        <div class="card-note">6/16 享 10%、6/23 & 6/30 享 15% 現折</div>
-        <a href="https://www.klook.com/zh-TW/activity/3969?aid=105925" target="_blank" rel="sponsored noopener" class="card-btn klook-btn">Klook 搶購</a>
-      </div>
-    </div>
-
-  </div>
-</div><!-- end platform-klook -->
-
 </div><!-- end sale-page -->
 
 <style>
@@ -763,18 +602,10 @@ description: "616 到 618 旅遊年中慶快閃優惠！KKday 最低 4 折、買
 .sale-hero h1 { margin:0 0 0.5rem; font-size:1.6rem; }
 .sale-hero p { margin:0; font-size:0.95rem; opacity:0.95; }
 
-.platform-tabs { display:flex; gap:0.5rem; margin-bottom:1.5rem; }
-.ptab { flex:1; padding:12px; border:2px solid #ddd; border-radius:8px; background:#fff; cursor:pointer; font-size:1rem; font-weight:600; transition:all 0.2s; }
-.ptab.active { background:#e8735a; color:#fff; border-color:#e8735a; }
-.ptab:last-child.active { background:#06C755; border-color:#06C755; }
-
 .coupon-callout { background:#fff8f0; border-left:4px solid #e8735a; border-radius:8px; padding:1rem 1.2rem; margin-bottom:1.5rem; }
 .coupon-callout ul { margin:0.5rem 0 0; padding-left:1.2rem; }
 .coupon-callout li { margin-bottom:0.3rem; font-size:0.9rem; }
 .coupon-callout code { background:#ffe8d6; padding:2px 6px; border-radius:4px; font-weight:700; }
-.klook-callout { background:#f0fff4; border-left-color:#06C755; }
-.klook-badge { display:inline-block; background:#e8f5e9; color:#2e7d32; padding:4px 10px; border-radius:20px; font-size:0.82rem; font-weight:600; }
-.klook-badge.special { background:#fff3e0; color:#e65100; }
 
 .region-filters { display:flex; flex-wrap:wrap; gap:0.4rem; align-items:center; margin-bottom:1.2rem; }
 .filter-label { font-weight:600; font-size:0.9rem; color:#666; }
@@ -792,16 +623,12 @@ description: "616 到 618 旅遊年中慶快閃優惠！KKday 最低 4 折、買
 .discount-badge.b1g1 { font-size:0.8rem; background:#d63031; }
 .discount-badge.hot { background:#c0392b; }
 .discount-badge.code { background:#8e44ad; font-size:0.85rem; }
-.discount-badge.klook-rate { background:#06C755; font-size:0.85rem; }
-.discount-badge.klook-rate.hot { background:#e65100; }
 
 .card-body { flex:1; padding:0.7rem 0.9rem; display:flex; flex-direction:column; justify-content:space-between; }
 .card-title { font-weight:600; font-size:0.88rem; line-height:1.4; margin-bottom:0.3rem; }
 .card-note { font-size:0.76rem; color:#888; margin-bottom:0.5rem; line-height:1.3; }
 .card-btn { display:inline-block; background:#e8735a; color:#fff; padding:5px 14px; border-radius:5px; font-size:0.8rem; font-weight:700; text-decoration:none; text-align:center; }
 .card-btn:hover { background:#c0392b; }
-.klook-btn { background:#06C755; }
-.klook-btn:hover { background:#059b44; }
 
 @media(max-width:500px){
   .cards-grid { grid-template-columns:1fr; }
@@ -810,14 +637,6 @@ description: "616 到 618 旅遊年中慶快閃優惠！KKday 最低 4 折、買
 </style>
 
 <script>
-function switchPlatform(platform, btn) {
-  document.querySelectorAll('.platform-section').forEach(s => s.style.display = 'none');
-  document.getElementById('platform-' + platform).style.display = 'block';
-  document.querySelectorAll('.ptab').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  filterRegion('all', document.querySelector('.rflt'));
-}
-
 function filterRegion(region, btn) {
   var cards = document.querySelectorAll('#platform-kkday .sale-card, #platform-kkday .region-header');
   cards.forEach(function(c) {
