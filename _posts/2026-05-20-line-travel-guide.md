@@ -140,7 +140,6 @@ LINE 旅遊會定期推出平台限定的折扣活動，例如線上旅展、高
 
 LINE 旅遊是比價起點，但各平台本身也有折扣碼可以疊加使用：
 
-- 🟠 **Agoda**：可以再輸入 Agoda 折扣碼，加上 LINE POINTS 雙重優惠 → 詳見 [Agoda 折扣碼整理](/agoda-coupon-taiwan/)
 - 🟡 **KKday**：活動票券可以用 KKday 優惠碼再折抵 → 詳見 [KKday 折扣碼整理](/kkday-coupon/)
 
 先查 LINE 旅遊確認哪個平台最便宜，再去該平台輸入折扣碼，是目前我覺得最完整的省錢流程。
