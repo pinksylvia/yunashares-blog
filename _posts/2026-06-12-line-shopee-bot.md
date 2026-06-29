@@ -8,7 +8,7 @@ description: "想在蝦皮買東西卻不知道哪裡有折扣連結？悠享數
 last_updated: "2026/06/12"
 ---
 
-<p style="font-size:0.85rem;color:#888;margin-bottom:1.5rem;">本站 Yunashares（yunashares.blog）為悠享數位有限公司營運的網站。</p>
+<p style="font-size:0.85rem;color:#888;margin-bottom:1.5rem;">本站 Yunashares (Yunashares.blog) 為悠享數位有限公司 (YS Digital Co., Ltd.) 營運的網站，所有頁面由悠享數位有限公司維護管理。</p>
 
 你有沒有這樣的經驗：在蝦皮看到一個想買的商品，然後開始搜尋「有沒有折扣碼」、加了一堆社群群組，結果等到版主回覆時，優惠早就沒了？
 
