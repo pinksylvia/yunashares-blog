@@ -293,36 +293,6 @@ YUNA 和 KKday 合作，讀者專屬長期折扣碼 **KKYUNA94** 趕快存起來
 <ins class="kkday-product-media" data-oid="5019" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
 <script type="text/javascript" src="https://kkpartners.kkday.com/iframe.init.1.0.js"></script>
 
-<div id="agoda-widget-container" markdown="0">
-<div id="adgshp164376408"></div>
-<script type="text/javascript" src="https://cdn0.agoda.net/images/sherpa/js/init-dynamic_v8.min.js"></script>
-<script type="text/javascript">
-(function(){
-  var stg = new Object();
-  stg.crt="13660984305754";
-  stg.version="1.05";
-  stg.id=stg.name="adgshp164376408";
-  stg.Width="100%";
-  stg.Height="90px";
-  stg.RefKey="ADbgs9bejcSIKbtCICN7PA==";
-  stg.AutoScrollSpeed=2000;
-  stg.AutoScrollToggle=true;
-  stg.SearchboxShow=false;
-  stg.DiscountedOnly=false;
-  stg.Layout="widedynamic";
-  stg.Language="zh-tw";
-  stg.ApiKey="273068a7-94b7-48bd-9007-b696f8d71516";
-  stg.Cid="1953671";
-  stg.City="717899";
-  stg.Currency="TWD";
-  stg.OverideConf=false;
-  new AgdDynamic('adgshp164376408').initialize(stg);
-})();
-</script>
+<div style="text-align:center;margin:2rem 0;">
+  <a href="https://affckr.site/track/clicks/8685/c627c2bc980529d9f18bec23d62e994c276a44df2aabebfc0168b713234652eed671a3ea103a9e71" target="_blank" rel="sponsored noopener" style="display:inline-block;background:#e53e3e;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🏨 前往 Agoda 查詢最低房價</a>
 </div>
-
----
-
-想找更多 Agoda 訂房優惠與全台親子飯店推薦，可以看這篇：
-
-👉 [Agoda 折扣碼｜2026 最新訂房優惠活動整理 全台 20 間親子飯店推薦](/agoda-coupon-taiwan/)
