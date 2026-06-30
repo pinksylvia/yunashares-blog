@@ -16,7 +16,9 @@
   <div class="sidebar-section">
     <h3 class="sidebar-title">最新文章</h3>
     <ul class="sidebar-posts">
-      {% assign recent_posts = site.posts | slice: 0, 5 %}
+      {% assign pinned_posts = site.posts | where: "pin", true %}
+      {% assign other_posts = site.posts | where_exp: "p", "p.pin != true" %}
+      {% assign recent_posts = pinned_posts | concat: other_posts | slice: 0, 5 %}
       {% for post in recent_posts %}
       <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
       {% endfor %}
