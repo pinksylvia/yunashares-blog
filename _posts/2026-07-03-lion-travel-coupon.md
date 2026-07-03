@@ -161,4 +161,13 @@ APP 版本每天都有限定折扣碼，而且通常比官網多幾十到幾百�
 
 ---
 
+<div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border:2px dashed #e03424;border-radius:12px;">
+  <p style="font-weight:700;font-size:1.05rem;margin-bottom:0.8rem;">📌 折扣碼每週更新，建議把這頁加入我的最愛！</p>
+  <a href="https://yunashares.blog/lion-travel-coupon/" target="_blank" rel="noopener">
+    <img src="/assets/images/lion/折扣頁面截圖.jpg" alt="雄獅旅遊折扣碼頁面截圖" style="max-width:100%;border-radius:8px;margin-bottom:1rem;box-shadow:0 2px 10px rgba(0,0,0,0.12);">
+  </a>
+  <br>
+  <a href="https://yunashares.blog/lion-travel-coupon/" style="display:inline-block;background:#e03424;color:#fff;padding:12px 28px;border-radius:8px;font-weight:700;text-decoration:none;font-size:1rem;">⭐ 加入我的最愛，隨時查最新折扣碼</a>
+</div>
+
 > 以上優惠資訊持續更新，最新版以雄獅官網公告為準。如有任何變動會第一時間修改這篇，建議收藏備用！
