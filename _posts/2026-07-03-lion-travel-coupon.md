@@ -36,6 +36,10 @@ permalink: /lion-travel-coupon/
 
 **最大優點是不用跑多個平台比價**，尤其偶爾有跨品項折扣，一張優惠碼可以用在不同服務上，非常實用。
 
+<div style="text-align:center;margin:1.5rem 0;">
+  <a href="https://www.liontravel.com/?mtld=00002823&ud1=blogpost&mtl=lionaff&utm_source=lionaffiliate&utm_medium=cpa" target="_blank" rel="noopener" style="display:inline-block;background:#1a5fa8;color:#fff;padding:12px 28px;border-radius:8px;font-weight:700;text-decoration:none;font-size:1rem;">🌏 前往雄獅旅遊官網</a>
+</div>
+
 ---
 
 ## 雄獅 APP 優惠：天天都有限定折扣碼
@@ -43,6 +47,16 @@ permalink: /lion-travel-coupon/
 **強烈推薦下載雄獅旅遊 APP！**
 
 APP 版本每天都有限定折扣碼，而且通常比官網多幾十到幾百元的優惠。只要有在規劃旅遊，養成習慣開 APP 查一下，很多折扣碼都能直接套用在當下的訂單。
+
+<div style="text-align:center;margin:2rem 0;padding:1.5rem;border:2px dashed #e03424;border-radius:12px;">
+  <p style="font-weight:700;font-size:1.05rem;margin-bottom:0.8rem;">📌 折扣碼每週更新，建議把這頁加入我的最愛！</p>
+  <a href="https://event.liontravel.com/zh-tw/campaign/hotsale/index?mtld=00002823&ud1=blogpost&mtl=lionaff&utm_source=lionaffiliate&utm_medium=cpa" target="_blank" rel="noopener">
+    <img src="/assets/images/lion/折扣頁面截圖.jpg" alt="雄獅旅遊折扣碼頁面截圖" style="max-width:100%;border-radius:8px;margin-bottom:1rem;box-shadow:0 2px 10px rgba(0,0,0,0.12);">
+  </a>
+  <br>
+  <a href="https://event.liontravel.com/zh-tw/campaign/hotsale/index?mtld=00002823&ud1=blogpost&mtl=lionaff&utm_source=lionaffiliate&utm_medium=cpa" target="_blank" rel="noopener" style="display:inline-block;background:#e03424;color:#fff;padding:12px 28px;border-radius:8px;font-weight:700;text-decoration:none;font-size:1rem;margin:0.4rem;">🦁 雄獅折扣碼一鍵領取</a>
+  <a href="https://www.liontravel.com/?mtld=00002823&ud1=blogpost&mtl=lionaff&utm_source=lionaffiliate&utm_medium=cpa" target="_blank" rel="noopener" style="display:inline-block;background:#1a5fa8;color:#fff;padding:12px 28px;border-radius:8px;font-weight:700;text-decoration:none;font-size:1rem;margin:0.4rem;">🌏 前往雄獅旅遊官網</a>
+</div>
 
 ---
 
