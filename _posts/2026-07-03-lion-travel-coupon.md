@@ -151,23 +151,7 @@ APP 版本每天都有限定折扣碼，而且通常比官網多幾十到幾百�
 
 ---
 
-## 一鍵領取最新優惠碼
-
-<div style="text-align:center;margin:2rem 0;">
-<a href="https://event.liontravel.com/zh-tw/campaign/hotsale/index?mtld=00002823&ud1=blogpost&mtl=lionaff&utm_source=lionaffiliate&utm_medium=cpa" target="_blank" rel="noopener" style="display:inline-block;background:#e03424;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🦁 雄獅折扣碼一鍵領取</a>
-</div>
-
----
-
-## 雄獅旅遊官網
-
-<div style="text-align:center;margin:2rem 0;">
-<a href="https://www.liontravel.com/?mtld=00002823&ud1=blogpost&mtl=lionaff&utm_source=lionaffiliate&utm_medium=cpa" target="_blank" rel="noopener" style="display:inline-block;background:#1a5fa8;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🌏 前往雄獅旅遊官網</a>
-</div>
-
----
-
-## 使用心得整理
+## 為什麼喜歡用雄獅安排旅遊？
 
 ### ✅ 一站式滿足各種旅遊需求
 
