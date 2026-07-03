@@ -13,6 +13,14 @@ permalink: /lion-travel-coupon/
 
 這篇整理了 **2026 年最新的雄獅每週折扣碼**，不同星期有不同品項主打，先存好、出發前對照使用，就有機會省下一筆。內容會持續更新，建議先收藏！
 
+<div style="text-align:center;margin:1.8rem 0;">
+  <a href="https://event.liontravel.com/zh-tw/campaign/hotsale/index?mtld=00002823&ud1=blogpost&mtl=lionaff&utm_source=lionaffiliate&utm_medium=cpa" target="_blank" rel="noopener">
+    <img src="/assets/images/lion/banner截圖.jpg" alt="雄獅旅遊最新優惠活動" style="max-width:100%;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,0.12);">
+  </a>
+  <br><br>
+  <a href="https://event.liontravel.com/zh-tw/campaign/hotsale/index?mtld=00002823&ud1=blogpost&mtl=lionaff&utm_source=lionaffiliate&utm_medium=cpa" target="_blank" rel="noopener" style="display:inline-block;background:#e03424;color:#fff;padding:12px 28px;border-radius:8px;font-weight:700;text-decoration:none;font-size:1rem;">🦁 查看雄獅最新優惠活動</a>
+</div>
+
 ---
 
 ## 雄獅旅遊有哪些服務？
