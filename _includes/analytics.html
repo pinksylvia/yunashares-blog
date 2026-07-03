@@ -7,16 +7,18 @@
   gtag('config', 'G-NDJ7DQF6HV');
   gtag('config', 'AW-18142919086');
 
-  // 聯盟連結點擊追蹤（蝦皮 / Agoda / KKday / Trip.com）
+  // 聯盟連結點擊追蹤（蝦皮 / Agoda / KKday / Trip.com / 雄獅）
   // 通用事件：affiliate_click（network / link_url / link_text / page_path）
   // KKday 專用事件：kkday_affiliate_click（需含 cid 參數，額外回傳 kkday_cid）
   // Trip.com 專用事件：trip_affiliate_click（GA4 重要事件，由 GA4→Ads 匯入）
+  // 雄獅 專用事件：lion_affiliate_click（需含 mtld 參數，額外回傳 lion_mtld）
   (function () {
     var NETWORKS = [
-      { name: 'shopee', match: /(^|\.)shopee\.tw/i },
-      { name: 'agoda',  match: /(^|\.)agoda\.com/i },
-      { name: 'kkday',  match: /(^|\.)kkday\.com/i },
-      { name: 'trip',   match: /(^|\.)trip\.com/i }
+      { name: 'shopee',     match: /(^|\.)shopee\.tw/i },
+      { name: 'agoda',      match: /(^|\.)agoda\.com/i },
+      { name: 'kkday',      match: /(^|\.)kkday\.com/i },
+      { name: 'trip',       match: /(^|\.)trip\.com/i },
+      { name: 'liontravel', match: /(^|\.)liontravel\.com/i }
     ];
 
     function matchNetwork(href) {
@@ -32,6 +34,12 @@
     function getCid(href) {
       try {
         return new URL(href, location.href).searchParams.get('cid') || '';
+      } catch (e) { return ''; }
+    }
+
+    function getMtld(href) {
+      try {
+        return new URL(href, location.href).searchParams.get('mtld') || '';
       } catch (e) { return ''; }
     }
 
@@ -86,6 +94,19 @@
           link_text: linkText,
           page_path: location.pathname
         });
+      }
+
+      // 雄獅 專用轉換事件（需含 mtld 才觸發，由 GA4→Ads 匯入追蹤）
+      if (network === 'liontravel') {
+        var mtld = getMtld(href);
+        if (mtld) {
+          gtag('event', 'lion_affiliate_click', {
+            lion_mtld: mtld,
+            link_url: href,
+            link_text: linkText,
+            page_path: location.pathname
+          });
+        }
       }
     }, { capture: true });
   })();
