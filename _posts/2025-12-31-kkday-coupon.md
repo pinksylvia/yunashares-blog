@@ -49,10 +49,10 @@ redirect_from:
 <li>🛠️ 搶購流程：13:00 準時重新整理頁面，點選新出現的「買一送一專屬方案」，選好出發日期後在結帳前輸入折扣碼 <strong>DFW4FDJ</strong>，即可顯示對折價格。</li>
 </ul>
 
-<p style="margin:0 0 0.5rem;font-weight:700;">🇯🇵 東京迪士尼 ＆ 日本樂高樂園 ⟶ 限時 5 折</p>
+<p style="margin:0 0 0.5rem;font-weight:700;">🇯🇵 東京迪士尼 ＆ 日本名古屋樂高樂園 ⟶ 限時 5 折</p>
 <ul style="margin:0 0 0.75rem;padding-left:1.25rem;">
 <li>🔥 專屬折扣碼：<strong>26GOJP50P</strong></li>
-<li>👉 <a href="https://www.kkday.com/zh-tw/product/19252?cid=23391&ud1=blogpost" target="_blank" rel="sponsored noopener">東京迪士尼樂園 / 海洋</a>　｜　<a href="https://www.kkday.com/zh-tw/product/11413?cid=23391&ud1=blogpost" target="_blank" rel="sponsored noopener">日本樂高樂園</a></li>
+<li>👉 <a href="https://www.kkday.com/zh-tw/product/19252?cid=23391&ud1=blogpost" target="_blank" rel="sponsored noopener">東京迪士尼樂園 / 海洋</a>　｜　<a href="https://www.kkday.com/zh-tw/product/11413?cid=23391&ud1=blogpost" target="_blank" rel="sponsored noopener">日本名古屋樂高樂園</a></li>
 <li>🛠️ 搶購流程：這兩款<strong>不需等新方案</strong>，直接選好日期加入購物車，13:00 進入結帳畫面後輸入折扣碼 <strong>26GOJP50P</strong> 即享 5 折！</li>
 </ul>
 </div>
