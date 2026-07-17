@@ -41,7 +41,7 @@ redirect_from:
 | 活動 | 日期 | 活動頁 |
 |------|------|--------|
 | 🎖️ 會員日 | 7/10 ～ 7/13 | [前往頁面](https://www.kkday.com/zh-tw/promo/vip-member?cid=23391&ud1=blogpost) |
-| ⚡ 一起GO 快閃活動 | 7/17 ～ 7/19 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost) |
+| ⚡ 一起GO 快閃活動 | 7/17 ～ 7/19 | [前往頁面](https://www.kkday.com/zh-tw/promo/membership_mall?cid=23391&ud1=blogpost) |
 | ✈️ 飛航日 | 7/27 | [前往頁面](https://www.kkday.com/zh-tw/promo/27-flash-sale?cid=23391&ud1=blogpost) |
 | ⚡ 月底閃購日 | 7/29 ～ 7/31 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost) |
 
