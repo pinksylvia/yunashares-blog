@@ -17,6 +17,29 @@ redirect_from:
 > - 🎟️ **KKYUNA94**｜全站滿 1,500 享 94 折，上限折抵 200（每帳號可用 6 次，長期有效）
 > - ✈️ **KKYUNA**｜機票滿 7,000 折 300，使用期限 ～7/31，旅遊期限 ～11/30
 
+<div style="border:2px solid #e03424;border-radius:10px;padding:1.2rem 1.4rem;margin:1.8rem 0;background:#fff8f7;">
+<p style="font-size:1.05rem;font-weight:700;color:#e03424;margin:0 0 0.6rem;">🚨 KKday 77大促 × 會員日｜日本人氣樂園天天 5 折補貨！</p>
+<p style="margin:0 0 0.8rem;font-size:0.95rem;">折扣碼 <strong>26GOJP50</strong> 連續五天補貨，每天 <strong>13:00</strong> 準時開搶，指定日本人氣樂園直接 <strong>5 折</strong>，最高折抵 NT$2,200。沒搶到的每天再戰，開搶前一小時先進主會場排隊領券就好，目前顯示無法領取是正常的！</p>
+<p style="margin:0 0 0.5rem;font-size:0.9rem;"><strong>折扣碼：26GOJP50</strong>｜指定日本樂園 / 景點 5 折（最高折 NT$2,200）</p>
+<p style="margin:0 0 1rem;font-size:0.9rem;">👉 <a href="https://www.kkday.com/zh-tw/promo/vip-member?cid=23391" target="_blank" rel="sponsored noopener"><strong>KKday 會員日活動主會場（點我進去排隊領券）</strong></a></p>
+<hr style="border:none;border-top:1px dashed #f2c0bb;margin:0.8rem 0;">
+<p style="font-size:0.9rem;font-weight:700;margin:0 0 0.6rem;">🇯🇵 5 折商品搶購陣容</p>
+<ul style="margin:0;padding-left:1.2rem;font-size:0.9rem;line-height:2;">
+  <li>🏰 <a href="https://www.kkday.com/zh-tw/product/19252?cid=23391" target="_blank" rel="sponsored noopener">東京迪士尼樂園 &amp; 東京迪士尼海洋門票</a></li>
+  <li>⚡ <a href="https://www.kkday.com/zh-tw/product/144383?cid=23391" target="_blank" rel="sponsored noopener">東京哈利波特製片廠之旅門票</a>（現場可加購 600 日圓海格生日蛋糕）</li>
+  <li>🌌 <a href="https://www.kkday.com/zh-tw/product/22396?cid=23391" target="_blank" rel="sponsored noopener">東京豐洲 teamLab Planets 門票</a></li>
+  <li>🧱 <a href="https://www.kkday.com/zh-tw/product/11413?cid=23391" target="_blank" rel="sponsored noopener">名古屋日本樂高樂園門票 LEGOLAND JAPAN</a></li>
+</ul>
+</div>
+
+<div style="border:2px solid #0077b6;border-radius:10px;padding:1.2rem 1.4rem;margin:1.8rem 0;background:#f0f8ff;">
+<p style="font-size:1.05rem;font-weight:700;color:#0077b6;margin:0 0 0.6rem;">⚡ 7/17～7/19 快閃 72 小時｜一起 GO！會員限定玩夏享優惠</p>
+<p style="margin:0 0 0.8rem;font-size:0.95rem;">暑假出遊大補帖來了！KKday 會員限定快閃活動，72 小時限時開跑，旅遊大禮包最高省萬元，想玩台灣、日韓、東南亞都有好康，非會員記得先登入再逛！</p>
+<p style="margin:0 0 1rem;font-size:0.9rem;">⏰ 活動時間：<strong>7/17（四）～ 7/19（六）</strong>，72 小時限定</p>
+<div style="text-align:center;">
+  <a href="https://www.kkday.com/zh-tw/promo/membership_mall?cid=23391" target="_blank" rel="sponsored noopener" style="display:inline-block;background:#0077b6;color:#fff;padding:11px 26px;border-radius:7px;font-weight:700;text-decoration:none;font-size:0.95rem;">🎁 前往會員限定快閃活動頁</a>
+</div>
+</div>
 ## KKday折扣碼優惠：2026年7月大檔活動
 
 ### 🔥 1. 七月全月活動
