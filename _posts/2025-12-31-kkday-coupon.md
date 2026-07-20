@@ -17,14 +17,6 @@ redirect_from:
 > - 🎟️ **KKYUNA94**｜全站滿 1,500 享 94 折，上限折抵 200（每帳號可用 6 次，長期有效）
 > - ✈️ **KKYUNA**｜機票滿 7,000 折 300，使用期限 ～7/31，旅遊期限 ～11/30
 
-<div style="border:2px solid #0077b6;border-radius:10px;padding:1.2rem 1.4rem;margin:1.8rem 0;background:#f0f8ff;">
-<p style="font-size:1.05rem;font-weight:700;color:#0077b6;margin:0 0 0.6rem;">⚡ 7/17～7/19 快閃 72 小時｜一起 GO！會員限定玩夏享優惠</p>
-<p style="margin:0 0 0.8rem;font-size:0.95rem;">暑假出遊大補帖來了！KKday 會員限定快閃活動，72 小時限時開跑，旅遊大禮包最高省萬元，想玩台灣、日韓、東南亞都有好康，非會員記得先登入再逛！</p>
-<p style="margin:0 0 1rem;font-size:0.9rem;">⏰ 活動時間：<strong>7/17（四）～ 7/19（六）</strong>，72 小時限定</p>
-<div style="text-align:center;">
-  <a href="https://www.kkday.com/zh-tw/promo/membership_mall?cid=23391" target="_blank" rel="sponsored noopener" style="display:inline-block;background:#0077b6;color:#fff;padding:11px 26px;border-radius:7px;font-weight:700;text-decoration:none;font-size:0.95rem;">🎁 前往會員限定快閃活動頁</a>
-</div>
-</div>
 ## KKday折扣碼優惠：2026年7月大檔活動
 
 ### 🔥 1. 七月全月活動
