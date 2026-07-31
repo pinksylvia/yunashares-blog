@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【KKday折扣碼】2026最新折扣碼及信用卡優惠大整理(2026.7月最新)"
+title: "【KKday折扣碼】2026最新折扣碼及信用卡優惠大整理(2026.8月最新)"
 date: 2026-07-01
 categories: [親子旅遊, 購物折扣]
 tags: [KKday, KKDAY折扣碼, 信用卡優惠, 旅遊優惠, 機票優惠, 票券優惠, 親子旅遊]
@@ -17,39 +17,38 @@ redirect_from:
 > - 🎟️ **KKYUNA94**｜全站滿 1,500 享 94 折，上限折抵 200（每帳號可用 6 次，長期有效）
 > - ✈️ **KKYUNA**｜機票滿 7,000 折 300，使用期限 ～8/31，旅遊期限 ～12/30
 
-## KKday折扣碼優惠：2026年7月大檔活動
+## KKday折扣碼優惠：2026年8月大檔活動
 
-### 🔥 1. 七月全月活動
+### 🔥 1. 八月全月活動
 
 [前往 KKday 暑假活動頁面](https://www.kkday.com/zh-tw/promo/summer-vacation?cid=23391&ud1=blogpost)
 
 <table><tbody>
-<tr><td><strong>2026SUMMER</strong></td><td>七月全月｜不限門檻 94 折（單筆最高折 NT$100）</td></tr>
-<tr><td><strong>1000SUMMER</strong></td><td>七月全月｜滿 10,000 折 1,000</td></tr>
+<tr><td><strong>2026SUMMER</strong></td><td>八月全月｜不限門檻 94 折（單筆最高折 NT$100）</td></tr>
+<tr><td><strong>1000SUMMER</strong></td><td>八月全月｜滿 10,000 折 1,000</td></tr>
 </tbody></table>
 
-### 📅 2. 7月重點快閃活動時程
+### 📅 2. 8月重點快閃活動時程
 
 | 活動 | 日期 | 活動頁 |
 |------|------|--------|
-| 🎖️ 會員日 | 7/10 ～ 7/13 | [前往頁面](https://www.kkday.com/zh-tw/promo/vip-member?cid=23391&ud1=blogpost) |
-| ⚡ 一起GO 快閃活動 | 7/17 ～ 7/19 | [前往頁面](https://www.kkday.com/zh-tw/promo/membership_mall?cid=23391&ud1=blogpost) |
-| ✈️ 飛航日 | 7/27 | [前往頁面](https://www.kkday.com/zh-tw/promo/27-flash-sale?cid=23391&ud1=blogpost) |
-| ⚡ 月底閃購日 | 7/29 ～ 7/31 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost) |
+| 🎖️ 會員日 | 8/10 ～ 8/13 | [前往頁面](https://www.kkday.com/zh-tw/promo/vip-member?cid=23391&ud1=blogpost) |
+| ⚡ 月中快閃活動 | 8/17 ～ 8/19 | [前往頁面](https://www.kkday.com/zh-tw/promo/membership_mall?cid=23391&ud1=blogpost) |
+| ✈️ 飛航日 | 8/27 | [前往頁面](https://www.kkday.com/zh-tw/promo/27-flash-sale?cid=23391&ud1=blogpost) |
+| ⚡ 月底閃購日 | 8/29 ～ 8/31 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost) |
 
 
 <!-- KKday 熱門商品推薦 Widget -->
 <ins class="kkday-product-media" data-oid="5018" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
 <script type="text/javascript" src="https://kkpartners.kkday.com/iframe.init.1.0.js"></script>
 
-## KKday折扣碼優惠：KOL 專屬限量折扣碼（至 7/30）
+## KKday折扣碼優惠：KOL 專屬限量折扣碼
 
 以下全站折扣碼需點選[**KKday x YUNA專屬入口**](https://www.kkday.com/zh-tw?cid=23391&ud1=blogpost)至KKday購買商品才能成功使用，中途不能換瀏覽器或跳轉其他導購網站！
 
 ### 🎟️ 全站神券
 
 <table><tbody>
-<tr><td><strong>KKAFF400</strong></td><td>全站商品滿 5,000 折 400</td></tr>
 <tr><td><strong>KKAFF700</strong></td><td>全站商品滿 8,000 折 700</td></tr>
 <tr><td><strong>KKAFF1000A</strong></td><td>全站單筆滿 10,000 折 1,000</td></tr>
 <tr><td>AFFNEW88A</td><td>新客全站不限低消 88 折（上限折抵 150）</td></tr>
@@ -59,7 +58,7 @@ redirect_from:
 
 <table><tbody>
 <tr><td>KKAFFTOUR88</td><td>日遊不限低消享 88 折（上限折抵 300）</td></tr>
-<tr><td><strong>KKAFFLH520</strong></td><td>🍂 秋冬早鳥｜紐澳歐美行程（8–11 月出發）8 折，上限折抵 520</td></tr>
+<tr><td><strong>KKAFFLH520</strong></td><td>🍂 秋冬早鳥｜紐澳歐美行程（9–12 月出發）8 折，上限折抵 520</td></tr>
 <tr><td><strong>KKCCCAR</strong></td><td>全球包車 9 折，上限折抵 1,000</td></tr>
 <tr><td>KKAFF1200</td><td>日遊與包車滿 10,000 現折 1,200</td></tr>
 </tbody></table>
@@ -86,43 +85,47 @@ redirect_from:
 
 - 【THSR26OF5】高鐵結帳滿 2,200 享 95 折（可搭配原活動 65 折起，至 12/31）
 - 【26FW250】澎湖花火節商品滿 3,000 折 250（至 8/31）[**👉🏻點我查看適用商品**](https://www.kkday.com/zh-tw/promo/penghu_fireworks?cid=23391&ud1=blogpost)
-- 【26EXNEW】KKday 展覽新客 95 折（至 7/31）
-- 【WKNEX97】展覽、景點、親子滿 1,200 享 3% 折扣（至 7/31）
-- 【WKNME98】餐券滿 4,000 享 2% 折扣（至 7/31）
-- 【LH500】長程線（歐美紐澳）滿 10,000 折 500（適用加州迪士尼、瑞士通行證，至 7/31）
-- 【LH50002】長程線（歐美紐澳）滿 5,000 折 150（至 7/31）
+- 【26EXNEW】KKday 展覽新客 95 折（至 8/31）
+- 【WKNEX97】展覽、景點、親子滿 1,200 享 3% 折扣（至 8/31）
+- 【WKNME98】餐券滿 4,000 享 2% 折扣（至 8/31）
+- 【LH500】長程線（歐美紐澳）滿 10,000 折 500（適用加州迪士尼、瑞士通行證，至 8/31）
+- 【LH50002】長程線（歐美紐澳）滿 5,000 折 150
 
 ### 🎢 景點門票、樂園與賽事
 
-- 【26AUR94】極光商品早鳥滿 10,000 享 94 折，最高折抵 2,000（至 7/15）
 - 【DLPTW95】巴黎迪士尼滿 USD 150 享 9 折，最高折抵 USD 25（至 8/31）
-- 【SGF1000】新加坡 F1 門票住宿不限低消折 1,000（至 7/31）
-- 【SP500】全球運動賽事滿 4,000 享 95 折（至 7/31）
-- 【SHDRTW94】上海迪士尼度假區門票 94 折，最高折抵 160（至 7/31）
+- 【TWUSH05】好萊塢環球影城滿 6,000 折 600（至 8/31）[**👉🏻查看商品**](https://www.kkday.com/zh-tw/product/3971?cid=23391&ud1=blogpost)
+- 【26SG1000】新加坡 F1 門票住宿不限低消折 1,000[**👉🏻查看商品**](https://www.kkday.com/zh-tw/product/168524?cid=23391&ud1=blogpost)
+- 【26F13000】新加坡聖淘沙安曼納聖殿度假酒店＋F1 門票，滿 70,000 折 3,000
 
 ### 🚆 日本交通與行程
 
 - 【26JPTOUR】日本春夏行程不限低消 94 折，上限折抵 1,000（至 8/31）[**👉🏻點我查看適用商品**](https://www.kkday.com/zh-tw/promo/spring-in-japan?cid=23391&ud1=blogpost)
+- 【KKSUMMERTOUR】日本指定行程滿 5,000 JPY 享 20% OFF（至 8/31）
 - 【JPTRAIN】日本鐵路不限低消享 95 折，上限折抵 150（至 12/31）[**👉🏻點我查看適用商品**](https://www.kkday.com/zh-tw/transportation/japan-rail?cid=23391&ud1=blogpost)
 - 【JPNEWTRAIN】日本鐵路新戶限定，不限低消享 93 折，上限折抵 100（至 12/31）
 - 【KKJPTRAIN】日本鐵路 94 折，上限折抵 150（至 12/31）
-- 【JRFAMILY】日本鐵路親子同行最高折 500，指定席選位免費（至 7/31）
 
 ### 🇰🇷 韓國專區
 
 - 【26KRGOJ】韓國商品滿 1,500 享 98 折（最高折抵 120，至 12/31）
 - 【KBEAUTY88】韓國 K-Beauty 指定體驗 88 折，最高折抵 450（至 8/31）
-- 【KLOCAL50】釜山/蔚山/慶州在地體驗/一日遊滿 1,500 折 300（至 9/30）[**👉🏻查看商品**](https://www.kkday.com/zh-tw/promo/kto_travelikelocal?cid=23391&ud1=blogpost)
+- 【KKENCORE85】韓國指定體驗商品 85 折，最高折抵 400
+- 【26TKTBS2】釜山機票滿 8,000 折 500（至 8/27）[**👉🏻查看商品**](https://www.kkday.com/zh-tw/promo/busan-tw?cid=23391&ud1=blogpost)
+- 【26TKTBS3】釜山機票滿 15,000 折 1,000（至 8/27）
+- 【26TKTBS4】釜山行程體驗票券消費滿 2,000 享 95 折，最高折 250（至 8/27）
 - 【KKGGTOUR】京畿道一日遊滿 1,500 折 300（至 9/30）[**👉🏻查看商品**](https://www.kkday.com/zh-tw/promo/gyeonggido-2026?cid=23391&ud1=blogpost)
 - 【KKGGSTAY】京畿道住宿折 500（至 9/30）
 - 【KKGGTIX】京畿道票券商品 9 折（至 9/30）
-- 【GNSTAY1】慶州/釜山住宿滿 1,500 折 300
+- 【GNSTAY1】慶州/釜山住宿滿 1,500 折 300（至 8/31）
 - 【GNTOUR1】慶尚南道/釜山一日遊滿 1,500 折 300（至 8/31）
 - 【GNTIX1】慶尚南道/釜山票券商品 9 折
 
 ### 🏨 全球住宿
 
-- 【STR79】秋冬早鳥｜日遊體驗滿 1,200 享 79 折，最高折抵 310（至 7/31）
+- 【STR79】秋冬早鳥｜日遊體驗滿 1,200 享 79 折，最高折抵 310（至 8/31）
+- 【WIN600】秋冬早鳥｜行程體驗滿 5,000 折 600（至 8/31）
+- 【WIN1200】秋冬早鳥｜行程體驗滿 10,000 折 1,200（至 8/31）
 - 【KKHOTELNEW】全球住宿新客不限低消享 92 折，上限折抵 300（至 12/31）
 - 【KKHOTEL】全球住宿舊客不限低消享 95 折，上限折抵 200（至 12/31）
 - 【WEDKKHOTEL】週三台灣飯店晚鳥 9 折[**👉🏻點我查看適用商品**](https://www.kkday.com/zh-tw/promo/kkhotel?cid=23391&ud1=blogpost)
@@ -158,12 +161,11 @@ redirect_from:
 【SINOPAC400】永豐全卡別｜全球商品滿 4,000 折 400
 
 🔶 **[玉山銀行](https://www.kkday.com/zh-tw/promo/unicard?cid=23391&ud1=blogpost)**<br>
-【ESUN26Q1】全卡別｜全站滿 4,000 折 400<br>
+【ESUN26JUL1200】全卡別｜全球商品滿額折 1,200<br>
 【ESUNTR350】國族卡｜全球行程＆體驗商品滿 3,500 折 350<br>
 【ESUNTR2000】國族卡｜全球郵輪滿 30,000 折 2,000<br>
 【ESUNTR300】國族卡｜全球機票滿 12,000 折 300<br>
-【ESUNSTARLUX10】星宇卡｜新客日本全商品 88 折（上限折抵 100）<br>
-【ESUNBFF0726】好友日｜日韓全商品滿 800 享 9 折
+【ESUNSTARLUX10】星宇卡｜新客日本全商品 88 折（上限折抵 100）
 
 🔶 **[台新 Richart 卡](https://www.kkday.com/zh-tw/promo/richart?cid=23391&ud1=blogpost)**<br>
 切換玩旅遊方案，活動最高享 5%～3.3% 台新 Point 回饋<br>
@@ -172,8 +174,8 @@ redirect_from:
 【TS26JUL150】全球行程體驗（親子）滿 2,000 折 150
 
 🔶 **[新光 Visa 無限卡](https://www.kkday.com/zh-tw/promo/skb_infinite?cid=23391&ud1=blogpost)**<br>
-【SKBINF7506】全球商品滿 3,000 享 75 折<br>
-（限量 240 組）日本住宿 / 全球日遊 / 全球交通等，單筆滿 8,000 現折 2,500（詳見活動頁）
+【SKBINF7508】全球商品滿 3,000 享 75 折<br>
+【SKBINF26Q2】（限量 240 組）日本住宿 / 全球日遊 / 全球交通等，單筆滿 8,000 現折 2,500（詳見活動頁）
 
 🔶 **[星展銀行 饗樂生活卡](https://www.kkday.com/zh-tw/promo/dbs?cid=23391&ud1=blogpost)**<br>
 【卡號前 8 碼＋DBS26】全站最高 8 折，上限折抵 150<br>
@@ -192,28 +194,31 @@ redirect_from:
 【FUBONBASEBALL】全台大魯閣棒壘球打擊場買一送一<br>
 【FUBONTOKYO】東京商品滿 1,500 折 450<br><br>
 ＊J卡專屬＊<br>
-【JCARD1000JUL】日本機票現折 1,000<br>
+【JCARD1000AUG】日本機票現折 1,000<br>
 【JCARD071200】日本機加酒 / 機票組合滿 10,000 折 1,200<br>
 【JCARD2693】海外包車 / 機場接送 / 機場服務滿 1,500 享 93 折<br>
 水上活動全商品：滿 2,500 折 280<br>
 滑雪、冰上活動全商品：滿 4,400 折 480
 
 🔶 **[JCB 晶緻卡 / 極緻卡](https://www.kkday.com/zh-tw/promo/jcb_precious?cid=23391&ud1=blogpost)**<br>
-【26JCB07】日韓港澳泰越商品滿 2,000 折 200<br>
+【26JCB08】日韓港澳泰越商品滿 2,000 折 200<br>
 【JCBJPTRAIN】JR 點對點滿 2,500 限折 160
 
 🔶 **AFTEE / 全支付 / 街口支付**<br>
-【AFTEE110】全球商品滿 2,000 折 110<br>
-【AFTEE300】全球商品滿 5,000 折 300<br>
-【JKO26H1】街口新戶｜全球商品滿 3,500 折 350
+【AFTEE85】全球商品 85 折<br>
+【JKO26H1】街口新戶｜全球商品滿 3,500 折 350<br>
+【JKOJP2607】街口｜日本商品單筆滿 2,500 折 150<br>
+【TWJKO245H207】街口｜全球商品單筆滿 3,500 折 245
 
 🔶 **[國泰世華銀行](https://www.kkday.com/zh-tw/promo/cube?cid=23391&ud1=blogpost)**<br>
 ＊CUBE 卡＊ 切換「趣旅行」享 3.3% 小樹點回饋<br>
-【CUBE260502、CUBE260509】全站商品滿 3,000 折 240 / 滿 6,000 折 600<br>
+【CUBE260502、CUBE260509】小樹點回饋活動碼<br>
+【CUBE26JUL240】全戶全球商品滿 3,000 折 240<br>
+【CUBE26JUL600】全戶全球商品滿 6,000 折 600<br>
 【CUBNEW26】日本 / 歐美紐澳商品新戶滿 2,100 折 350<br><br>
 ＊蝦皮聯名卡＊ 全站基礎回饋最高 7% 蝦幣<br>
-日本 / 東南亞 / 歐美紐澳商品：滿 1,000 享 8 折（上限折抵 350）<br>
-全球商品：滿 2,200 折 180<br>
+【CUB26H2SP8】日本 / 東南亞 / 歐美紐澳商品：滿 1,000 享 8 折（上限折抵 350）<br>
+【CUB26H2SP180】全球商品：滿 2,200 折 180<br>
 【CUB26H1SP9】培育專屬 / 新戶｜全球商品滿 2,000 享 9 折
 
 ## KKday折扣碼優惠：每週固定卡別爆品限搶
@@ -227,14 +232,11 @@ redirect_from:
 <tr><td>機票 享 5 折（限量 5 組）</td><td style="text-align:center;">見下方週次折扣碼</td></tr>
 </tbody></table>
 
-7 月週次折扣碼：
+8 月週次折扣碼（⚠️ 8 月僅第一週提供）：
 
-| 搶購日 | 機＋酒 / 機票現折碼 | 機票 5 折碼 |
-|--------|-------------------|------------|
-| 7/6 | CTBC12000706 | CTBC35000706 |
-| 7/13 | CTBC12000713 | CTBC35000713 |
-| 7/20 | CTBC12000720 | CTBC35000720 |
-| 7/27 | CTBC12000727 | CTBC35000727 |
+| 搶購日 | 機＋酒折 1,200 | 機票折 1,000 | 機票 5 折碼 |
+|--------|--------------|------------|------------|
+| 8/3 | CTBC12000803 | CTBC10000803 | CTBC35000803 |
 
 ### 📆 每週二限定｜街口支付
 
@@ -244,28 +246,27 @@ redirect_from:
 
 全球指定類別商品（體驗 / 行程 / 交通 / 景點通票），輸入專屬代碼享 **10% LINE POINTS 回饋**
 
-7 月每週四折扣碼：
+8 月每週四折扣碼：
 
 | 日期 | 折扣碼 |
 |------|--------|
-| 7/2 | CTBCLP260702 |
-| 7/9 | CTBCLP260709 |
-| 7/23 | CTBCLP260723 |
-| 7/30 | CTBCLP260730 |
+| 8/6 | CTBCLP260806 |
+| 8/13 | CTBCLP260813 |
+| 8/20 | CTBCLP260820 |
+| 8/27 | CTBCLP260827 |
 
 ### 📆 每週五限定｜台新 Richart 卡
 
 切換玩旅遊刷方案，全戶全球商品滿 3,000 折 240，活動最高享 **16.6% 優惠**
 
-7 月每週五折扣碼：
+8 月每週五折扣碼：
 
 | 日期 | 折扣碼 |
 |------|--------|
-| 7/3 | TS260703 |
-| 7/10 | TS260710 |
-| 7/17 | TS260717 |
-| 7/24 | TS260724 |
-| 7/31 | TS260731 |
+| 8/7 | TS260807 |
+| 8/15 | TS260815 |
+| 8/22 | TS260822 |
+| 8/29 | TS260829 |
 
 ## KKday折扣碼優惠：常見問題Q&A
 
