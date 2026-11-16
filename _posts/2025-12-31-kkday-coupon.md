@@ -33,14 +33,14 @@ redirect_from:
 | 活動 | 日期 | 活動頁 |
 |------|------|--------|
 | 🎖️ 會員日 | 11/10 ～ 11/13 | [前往頁面](https://www.kkday.com/zh-tw/promo/vip-member?cid=23391&ud1=blogpost) |
-| ⚡ 月中快閃活動 | 11/17 ～ 11/19 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391) |
+| ⚡ 月中快閃活動 | 11/17 ～ 11/19 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost) |
 | ✈️ 飛航日 | 11/27 | [前往頁面](https://www.kkday.com/zh-tw/promo/27-flash-sale?cid=23391&ud1=blogpost) |
-| ⚡ 月底閃購日 | 11/28 ～ 11/30 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391) |
+| ⚡ 月底閃購日 | 11/28 ～ 11/30 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost) |
 
 
 ### ⚡ 3. 黑五快閃 11/17～11/19
 
-[前往 KKday 快閃活動頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391)
+[前往 KKday 快閃活動頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost)
 
 #### 🎁 三天都有
 
