@@ -38,6 +38,50 @@ redirect_from:
 | ⚡ 月底閃購日 | 11/28 ～ 11/30 | [前往頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost) |
 
 
+### ⚡ 3. 黑五快閃 11/17～11/19
+
+[前往 KKday 快閃活動頁面](https://www.kkday.com/zh-tw/promo/flashday?cid=23391&ud1=blogpost)
+
+#### 🎁 三天都有
+
+- 全站滿 10,000 送 777 點
+- 日本冬季一日遊 7～85 折：北海道破冰船、白川鄉點燈、美山冬燈廊、長野滑雪…
+
+#### ⏰ 每天固定時段搶券（APP 限定）
+
+| 時間 | 優惠內容 |
+|------|----------|
+| 11:00 | 全站 7 折神券，最高折 500，每天限 20 份 |
+| 12:00 | 熱門機票滿 5,030 現折 $5,000 |
+| 13:00 | 人氣商品 5 折／買一送一，日本環球影城買一送一每天 5 組 |
+| 21:00 | 全站 1 折神券，最高折 500，每天限 10 份 |
+
+#### 📅 每日限定
+
+- **11/17（二）** 14:00 郵輪滿 40,000 折 2,000 ｜ 16:00 瑞士搶券折 1,800 ｜ 20:00 台灣美食滿 1,111 折 111＋過年早鳥行程 7 折
+- **11/18（三）** 20:00 台灣按摩 SPA 滿 1,111 折 111＋追雪極光行程 7 折
+- **11/19（四）** 20:00 療癒玩樂行程 7 折 ｜ 倒數 4 小時全站 9 折 ｜ 全站點數 3 倍送（郵輪除外）
+
+#### 🎟️ 每日折扣碼
+
+<table><tbody>
+<tr><th>日期</th><th>時段</th><th>折扣碼</th><th>說明</th></tr>
+<tr><td rowspan="4"><strong>11/17</strong></td><td>11:00</td><td><strong>6ATULHP</strong></td><td>全站 7 折，最高折 500（限 20 份）</td></tr>
+<tr><td>12:00</td><td><strong>1117TKT5</strong></td><td>機票滿 5,030 折 5,000</td></tr>
+<tr><td>13:00</td><td><strong>BYY7YZZ</strong></td><td>USJ 環球影城買一送一（限 5 組）</td></tr>
+<tr><td>21:00</td><td><strong>MNAC93U</strong></td><td>全站 1 折，最高折 500（限 10 份）</td></tr>
+<tr><td rowspan="4"><strong>11/18</strong></td><td>11:00</td><td><strong>ZDAQBHD</strong></td><td>全站 7 折，最高折 500（限 20 份）</td></tr>
+<tr><td>12:00</td><td><strong>1118TKT5</strong></td><td>機票滿 5,030 折 5,000</td></tr>
+<tr><td>13:00</td><td><strong>GCENCLG</strong></td><td>USJ 環球影城買一送一（限 5 組）</td></tr>
+<tr><td>21:00</td><td><strong>K4N6X9Y</strong></td><td>全站 1 折，最高折 500（限 10 份）</td></tr>
+<tr><td rowspan="5"><strong>11/19</strong></td><td>11:00</td><td><strong>D7QZBDT</strong></td><td>全站 7 折，最高折 500（限 20 份）</td></tr>
+<tr><td>12:00</td><td><strong>1119TKT5</strong></td><td>機票滿 5,030 折 5,000</td></tr>
+<tr><td>13:00</td><td><strong>DQSJ3QK</strong></td><td>USJ 環球影城買一送一（限 5 組）</td></tr>
+<tr><td>20:00</td><td><strong>SFDLLM9</strong></td><td>全站 9 折</td></tr>
+<tr><td>21:00</td><td><strong>73LPRN3</strong></td><td>全站 1 折，最高折 500（限 10 份）</td></tr>
+<tr><td colspan="2"><strong>三天通用</strong></td><td><strong>TWFOOD111</strong></td><td>台灣美食 / 按摩 SPA 滿 1,111 折 111</td></tr>
+</tbody></table>
+
 <!-- KKday 熱門商品推薦 Widget -->
 <ins class="kkday-product-media" data-oid="5018" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
 <script type="text/javascript" src="https://kkpartners.kkday.com/iframe.init.1.0.js"></script>
