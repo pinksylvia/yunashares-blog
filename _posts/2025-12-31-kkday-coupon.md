@@ -331,6 +331,7 @@ YUNA 和 KKday 合作，目前共有 **2 組**讀者專屬折扣碼，趕快全�
 <ins class="kkday-product-media" data-oid="5019" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
 <script type="text/javascript" src="https://kkpartners.kkday.com/iframe.init.1.0.js"></script>
 
-<div style="text-align:center;margin:2rem 0;">
-  <a href="https://affckr.site/track/clicks/8685/c627c2bc980529d9f18bec23d62e994c276a44df2aabebfc0168b713234652eed671a3ea103a9e71" target="_blank" rel="sponsored noopener" style="display:inline-block;background:#e53e3e;color:#fff;padding:14px 32px;border-radius:8px;font-size:1.1rem;font-weight:700;text-decoration:none;">🏨 前往 Agoda 查詢最低房價</a>
-</div>
+<div id="adgshp-327999888"></div>
+<script type="text/javascript" src="//cdn0.agoda.net/images/sherpa/js/sherpa_init1_08.min.js"></script><script type="text/javascript">
+var stg = new Object(); stg.crt="366839355373";stg.version="1.04"; stg.id=stg.name="adgshp-327999888"; stg.width="320px"; stg.height="420px";stg.ReferenceKey="dx9uPwZypKvyuWWd/H1iqg=="; stg.Layout="SquareCalendar"; stg.Language="zh-tw";stg.Cid="1977474"; stg.City="5085"; stg.DestinationName="東京, 日本";stg.OverideConf=false; new AgdSherpa(stg).initialize();
+</script>
