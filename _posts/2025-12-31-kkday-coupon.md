@@ -331,7 +331,9 @@ YUNA 和 KKday 合作，目前共有 **2 組**讀者專屬折扣碼，趕快全�
 <ins class="kkday-product-media" data-oid="5019" data-amount="3" data-origin="https://kkpartners.kkday.com"></ins>
 <script type="text/javascript" src="https://kkpartners.kkday.com/iframe.init.1.0.js"></script>
 
-<div id="adgshp-327999888"></div>
+<div style="text-align:center;">
+<div id="adgshp-327999888" style="display:inline-block;"></div>
+</div>
 <script type="text/javascript" src="//cdn0.agoda.net/images/sherpa/js/sherpa_init1_08.min.js"></script><script type="text/javascript">
 var stg = new Object(); stg.crt="366839355373";stg.version="1.04"; stg.id=stg.name="adgshp-327999888"; stg.width="320px"; stg.height="420px";stg.ReferenceKey="dx9uPwZypKvyuWWd/H1iqg=="; stg.Layout="SquareCalendar"; stg.Language="zh-tw";stg.Cid="1977474"; stg.City="5085"; stg.DestinationName="東京, 日本";stg.OverideConf=false; new AgdSherpa(stg).initialize();
 </script>
